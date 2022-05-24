@@ -1,0 +1,24 @@
+[('oliːteʔ', 'oliːdeʔ'), ('zahset', 'zahset'), ('kaːlis', 'ɡaːlis'), ('otahsa', 'odahsa'), ('wisk', 'wisk'), ('dekeni', 'deɡeni'), ('aplam', 'aplam'), ('ojaːkala', 'ojaːɡala'), ('ohjotsah', 'ohjotsah'), ('lapahpet', 'labahbet'), ('stuːha', 'sduːha'), ('ʤiks', 'ʤiks'), ('testaʔn̥', 'desdaʔn̥'), ('teːzeknw̥', 'deːzeknw̥')]
+[('oliːdeʔ', 'oliːdeʔ'), ('zahsed', 'zahset'), ('ɡaːlis', 'ɡaːlis'), ('odahsa', 'odahsa'), ('wisɡ', 'wisk'), ('deɡeni', 'deɡeni'), ('ablam', 'aplam'), ('ojaːɡala', 'ojaːɡala'), ('ohjodsah', 'ohjotsah'), ('labahbed', 'labahbet'), ('sduːha', 'sduːha'), ('ʤiɡs', 'ʤiks'), ('desdaʔn̥', 'desdaʔn̥'), ('deːzeɡnw̥', 'deːzeknw̥')]
+Rule: ({}, {'continuant': '-'}, {'syllabic': '+'})
+N: 36
+N+: 11
+N-: 25
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 54090
+Simplicity score: 54090
+Simplicity: 54090
+Log # models: 160
+Likelihood: 52800
+[1;31mUnsatisfiable constraints:[0;31m
+/s . ɡ . #/ changed
+/o . d . a/ didn't change
+/a . b . l/ changed
+/e . d . #/ changed
+/o . d . s/ changed
+[0;0m
+Successfully discovered rule:
+ [({'voice': '+'}, ({}, {'continuant': '-'}, {'syllabic': '+'}))]
+7.30user 0.03system 0:10.75elapsed 68%CPU (0avgtext+0avgdata 46368maxresident)k
+1272inputs+8outputs (0major+6741minor)pagefaults 0swaps

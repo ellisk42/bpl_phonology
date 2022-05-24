@@ -1,0 +1,26 @@
+[('aɡbre', 'aɡble'), ('aɡoŋɡro', 'aɡoŋɡlo'), ('aŋɔri', 'aŋɔli'), ('akprɔ', 'akplɔ'), ('saburɛ', 'sabulɛ'), ('sra', 'sra'), ('arɔ', 'alɔ'), ('atitrwɛ', 'atitrwɛ'), ('avrɔ', 'avlɔ'), ('brafoɡbe', 'blafoɡbe'), ('drɛ', 'drɛ'), ('edrɔ', 'edrɔ'), ('exrɔ', 'exlɔ'), ('exre', 'exle'), ('hrɛ', 'hlɛ'), ('ŋrɔ', 'ŋlɔ'), ('ʧrɔ̃', 'ʧrɔ̃'), ('ñrã', 'ñrã'), ('krɔ', 'klɔ'), ('tre', 'tre'), ('vru', 'vlu'), ('rɔ', 'lɔ'), ('mra', 'mla'), ('prepreru', 'pleplelu'), ('wra', 'wla'), ('zro', 'zro'), ('esrɔ', 'esrɔ'), ('etro', 'etro'), ('eñrɔ̃', 'eñrɔ̃'), ('ʤro', 'ʤro')]
+[('aɡble', 'aɡble'), ('aɡoŋɡlo', 'aɡoŋɡlo'), ('aŋɔli', 'aŋɔli'), ('akplɔ', 'akplɔ'), ('sabulɛ', 'sabulɛ'), ('sla', 'sra'), ('alɔ', 'alɔ'), ('atitlwɛ', 'atitrwɛ'), ('avlɔ', 'avlɔ'), ('blafoɡbe', 'blafoɡbe'), ('dlɛ', 'drɛ'), ('edlɔ', 'edrɔ'), ('exlɔ', 'exlɔ'), ('exle', 'exle'), ('hlɛ', 'hlɛ'), ('ŋlɔ', 'ŋlɔ'), ('ʧlɔ̃', 'ʧrɔ̃'), ('ñlã', 'ñrã'), ('klɔ', 'klɔ'), ('tle', 'tre'), ('vlu', 'vlu'), ('lɔ', 'lɔ'), ('mla', 'mla'), ('pleplelu', 'pleplelu'), ('wla', 'wla'), ('zlo', 'zro'), ('eslɔ', 'esrɔ'), ('etlo', 'etro'), ('eñlɔ̃', 'eñrɔ̃'), ('ʤlo', 'ʤro')]
+[1;31mUnsatisfiable constraints:[0;31m
+/b . r . e/ changed
+/ɡ . r . o/ changed
+/ɔ . r . i/ changed
+/p . r . ɔ/ changed
+/s . r . a/ didn't change
+/b . r . a/ changed
+/# . r . ɔ/ changed
+[0;0m
+Rule: ({'coronal': '+'}, {}, {})
+N: 59
+N+: 12
+N-: 47
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 52545
+Simplicity score: 52545
+Simplicity: 52545
+Log # models: 221
+Likelihood: 79560
+Successfully discovered rule:
+ [({'continuant': '+'}, ({'coronal': '+'}, {}, {}))]
+10.41user 0.06system 0:13.43elapsed 77%CPU (0avgtext+0avgdata 47680maxresident)k
+0inputs+8outputs (0major+7156minor)pagefaults 0swaps

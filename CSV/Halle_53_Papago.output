@@ -1,0 +1,23 @@
+[('bíʤim', 'bíʤim'), ('ʧáːpan', 'táːpan'), ('híʤoḍ', 'hídoḍ'), ('ʧɨ́kiʤ', 'ʧɨ́kid'), ('ɡátwiʤ', 'ɡátwid'), ('ʧúku', 'ʧúku'), ('ʤáɡṣp', 'dáɡṣp'), ('ʧóha', 'tóha'), ('ʤúːkǐ', 'ʤúːkǐ'), ('hɨ́wɡiʤ', 'hɨ́wɡid'), ('ʧíhaŋ', 'ʧíhaŋ'), ('ʧóñi', 'tóñi'), ('wíḍuʧ', 'wíḍut'), ('ʧáːʧaḍ', 'táːtaḍ'), ('kíːʧuʤ', 'kíːʧud'), ('ʤóːʤom', 'dóːdom'), ('ʧáːʧam', 'táːtam')]
+[('bídim', 'bíʤim'), ('táːpan', 'táːpan'), ('hídoḍ', 'hídoḍ'), ('tɨ́kid', 'ʧɨ́kid'), ('ɡátwid', 'ɡátwid'), ('túku', 'ʧúku'), ('dáɡṣp', 'dáɡṣp'), ('tóha', 'tóha'), ('dúːkǐ', 'ʤúːkǐ'), ('hɨ́wɡid', 'hɨ́wɡid'), ('tíhaŋ', 'ʧíhaŋ'), ('tóñi', 'tóñi'), ('wíḍut', 'wíḍut'), ('táːtaḍ', 'táːtaḍ'), ('kíːtud', 'kíːʧud'), ('dóːdom', 'dóːdom'), ('táːtam', 'táːtam')]
+[1;31mUnsatisfiable constraints:[0;31m
+/í . ʤ . i/ didn't change
+/# . ʧ . áː/ changed
+/í . ʤ . o/ changed
+/i . ʤ . #/ changed
+[0;0m
+Rule: ({}, {'nasal': '-', 'coronal': '+', 'retroflex': '-'}, {'syllabic': '+', 'high': '+'})
+N: 83
+N+: 6
+N-: 77
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 60535
+Simplicity score: 60535
+Simplicity: 60535
+Log # models: 132
+Likelihood: 23760
+Successfully discovered rule:
+ [({'anterior': '-', 'distributed': '+', 'strident': '+'}, ({}, {'nasal': '-', 'coronal': '+', 'retroflex': '-'}, {'syllabic': '+', 'high': '+'}))]
+9.35user 0.06system 0:13.26elapsed 70%CPU (0avgtext+0avgdata 46624maxresident)k
+184inputs+8outputs (0major+6759minor)pagefaults 0swaps

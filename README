@@ -1,0 +1,273 @@
+This collection of files contains the data and programs used for "Synthesizing Theories of Human Language with Bayesian Program Induction".
+
+
+** Installation
+
+The code base is written in Python v2.7. You will need to install the following packages: subprocess32, numpy, pathos.multiprocessing, cPickle, psutil. Running certain parts of the system also benefit from `pypy`, which you can download from:
+https://www.pypy.org/
+If you do not wish to install pypy, simply replace all instances of `pypy` in the README w/ `python`, although this will incur a ~10x slowdown.
+
+You will need a working installation of the Sketch program synthesizer. We used Sketch version 1.7.5, which you can download at:
+
+https://people.csail.mit.edu/asolar/sketch-1.7.5.tar.gz
+
+You will need to download and install this software according to the Sketch README. We reproduce these instructions below. Although the instructions say that setting the environment variables is optional, it is *required* in order to use our system. We have tested this on Ubuntu Linux 18.04. Total installation time should take under 10 minutes.
+
+```
+Sketch 1.7.5 README
+
+Simple Setup Instructions:
+1. Dependencies
+Before building you need to have the following tools installed:
+bash g++ flex bison
+
+To run sketch you need to install either Java Runtime (JRE) or JDK, at least version 1.5.
+
+2. Building the backend
+under the sketch-1.7.5 directory, execute:
+
+cd sketch-backend
+chmod +x ./configure
+./configure
+make
+cd ..
+
+Hint: if configure or make keeps complaining, you can try install autoconf and libtool. But usually this is not necessary.
+
+3. Testing the sketch
+
+cd sketch-frontend
+chmod +x ./sketch
+./sketch test/sk/seq/miniTest1.sk
+
+This should print out the completed sketch.
+
+4. (Optional) setting environment variables
+under sketch-frontend directory:
+
+export PATH="$PATH:`pwd`"
+export SKETCH_HOME="`pwd`/runtime"
+
+The first one will let you run sketch from anywhere, and the second one will allow the code generators to find the runtime libraries.
+```
+You should add the above `export` commands to `~/.bashrc`.
+
+** Testing the system backend
+
+The system operates via a *backend*, which handles invocations of the sketch program synthesizer, as well as a number of *frontends*, which communicate with the backend via a socket.
+
+The backend is a Python script which runs in the background and multiplexes different invocations of Sketch. It runs these invocations in parallel, blocking if not enough CPUs are available. Each sketch invocation uses one CPU. Hence the backend must be told how many CPUs it can use.
+
+To start up the backend and tell it how many CPUs to use, execute the following from a new command line, where `<CPUs>` is an upper bound on the number of CPUs to use at once:
+```
+$ python command_server.py <CPUs>
+```
+
+To terminate the backend, either kill the above process, or execute the following:
+```
+$ python command_server.py KILL
+```
+
+Test that this works by making sure that the system can learn Pig Latin. Start up a new command server with 1 CPU, and then execute the following:
+```
+$ python pigLatin.py -d 3 Latin
+```
+
+You should see the following:
+```
+Invoking solver (timeout inf): sketch /home/ellisk/projects/programInductor/artifact/tmpRh8rPI.sk > /home/ellisk/projects/programInductor/artifact/solver_output/tmpMPLbG8 2> /home/ellisk/projects/programInductor/artifact/solver_output/tmpMPLbG8
+Ran the solver in 26.803400 sec (26.803950 wall clock, includes blocking)
+warning, could not find temporary sketch path /home/ellisk/.sketch/tmp/tmpRh8rPI.sk
+Ø ---> -2 / # [ -vowel ] [  ]* _ #
+[ -vowel ] ---> Ø / # _ 
+Ø ---> e /  _ #
+```
+
+** Running natural language morphophonology experiments
+
+The main front-end entry point is `driver.py`. It takes as commandline input the name of a phonology textbook problem, as well as what synthesis algorithm to use when solving that textbook problem. To get all the names of the textbook problems (which include the name of the textbook, the page it is from, and the name of the language), simply run `driver.py` without any arguments:
+```
+$ python driver.py
+Loaded Odden A1 problem from Kikurai, named Odden_A1_Kikurai
+Loaded Odden A2 problem from Modern Greek, named Odden_A2_Modern_Greek
+Loaded Odden A3 problem from Farsi, named Odden_A3_Farsi
+Loaded Odden A4 problem from Osage, named Odden_A4_Osage
+Loaded Odden A5 problem from Amharic, named Odden_A5_Amharic
+Loaded Odden A6 problem from Gen, named Odden_A6_Gen
+Loaded Odden A7 problem from Kishambaa, named Odden_A7_Kishambaa
+Loaded Odden A8 problem from Thai, named Odden_A8_Thai
+Loaded Odden A9 problem from Palauan, named Odden_A9_Palauan
+Loaded Odden A10 problem from Quechua (Cuzco dialect), named Odden_A10_Quechua_Cuzco_dialect
+Loaded Odden A11 problem from Lhasa Tibetan, named Odden_A11_Lhasa_Tibetan
+Loaded Odden 1.1 problem from Axininca Campa, named Odden_1.1_Axininca_Campa
+Loaded Odden 1.2 problem from Kikuyu, named Odden_1.2_Kikuyu
+Loaded Odden 1.3 problem from Korean, named Odden_1.3_Korean
+...
+```
+Problems with "A" in their name are allophone alternation problems (Odden_A1_Kikurai, Odden_A2_Modern_Greek, ...). These are not handled by `driver.py`, but instead by `alternation.py`
+
+The main script `driver.py` also takes as input a timeout (measured in hours, commandline argument `--timeout`); a count of the number of theories to produce (commandline argument `-t`, produces the top K theories as measured by description length); and also various parameters that can toggle the system between its different ablations. The commandline settings which correspond to the different versions of the system evaluated in the manuscript are given below as example `python` invocations, where `<problem-name>` corresponds to a name such as `Odden_1.3_Korean`:
+```
+$ python driver.py --timeout 24 -t 100 --geometry --features sophisticated <problem-name> incremental # full model
+$ python driver.py --timeout 24 -t 100 --geometry --features sophisticated <problem-name> CEGIS # CEGIS search algorithm
+$ python driver.py --timeout 24 -t 100 --features simple <problem-name> CEGIS # Simple features ablation
+$ python driver.py --timeout 24 -t 100 --features none --disableClean <problem-name> CEGIS # -representation ablation
+```
+Checkpoints will be automatically pickled to `experimentOutputs`. Precomputed checkpoints are provided in this directory.
+
+To try one of the easier problems (a single rule, 2 inflections), you can execute the following, which should take under an hour. We show the relevant output here:
+```
+$ python driver.py Odden_68_69_Russian incremental -t 100 --timeout 24 --geometry --features sophisticated
+...
+Converges to the final solution:
+rule: [ -sonorant ] ---> [ -voice ] /  _ #
+stem
+stem + /a/
+underlying form: /glaz/ ; surfaces = /glas/ ~ /glaza/
+underlying form: /les/ ; surfaces = /les/ ~ /lesa/
+underlying form: /večer/ ; surfaces = /večer/ ~ /večera/
+underlying form: /raz/ ; surfaces = /ras/ ~ /raza/
+underlying form: /vagon/ ; surfaces = /vagon/ ~ /vagona/
+underlying form: /porog/ ; surfaces = /porok/ ~ /poroga/
+...
+Total time taken by problem Odden_68_69_Russian: 4574.665198 seconds
+Exported experiment to experimentOutputs/Odden_68_69_Russian_incremental_disableClean=False_features=sophisticated_geometry=True.p
+```
+
+For a similar problem involving rule interactions, you can run
+```
+$ python driver.py Odden_3.2_Polish incremental -t 100 --timeout 1 --geometry --features sophisticated
+...
+Converges to the final solution:
+rule: o ---> u /  _ [ +voice -nasal ] #
+rule: [ -sonorant ] ---> [ -voice ] /  _ #
+stem
+stem + /i/
+underlying form: /wuk/ ; surfaces = /wuk/ ~ /wuki/
+underlying form: /vow/ ; surfaces = /vuw/ ~ /vowi/
+underlying form: /boy/ ; surfaces = /buy/ ~ /boyi/
+underlying form: /rog/ ; surfaces = /ruk/ ~ /rogi/
+underlying form: /klub/ ; surfaces = /klup/ ~ /klubi/
+...
+Total time taken by problem Odden_3.2_Polish: 4804.660569 seconds
+Exported experiment to experimentOutputs/Odden_3.2_Polish_incremental_disableClean=False_features=sophisticated_geometry=True.p
+```
+
+Note that we ran these experiments on 40 CPUs per textbook problem. Nonetheless, problems requiring fewer than 4 rules are feasible to solve within several hours on commodity hardware (e.g. a 4 core laptop).
+
+The other main entry point (only used for allophone problems) is `alternation.py`. You can run this similarly to `driver.py`:
+```
+$ python alternation.py  -t 100 --features (sophisticated|simple|none) (--disableClean)? <problem-name>
+```
+
+Upon running these experiments, or using the provided checkpoints, you can graph the accuracy of the discovered theories as measured on gold underlying forms (Figure 5) via
+```
+$ python montage.py --final --ground --together
+```
+Adding `--alternation` will include alternation problems in Figure 5B, which measures coverage as a function of time. Note that, for alternation problems, CEGIS and incremental synthesis are exactly the same.
+
+You can also measure the accuracy of the discovered theories as measured by the fraction of the data covered by the theory, which is a less stringent test, and was not shown in the paper for that reason:
+```
+$ python montage.py --final
+```
+
+
+** Running artificial grammar learning experiments
+
+The main entry point to the front-end for these experiments is `Marcus.py`. To run these experiments both with and without syllable representations, execute the following (the backend `command_server.py` will need to be running):
+```
+for language in aax aab abx axa aba abb ; do for i in `seq 1 5`; do python Marcus.py  --quiet  -t 30  -d 2 -n $i --save paretoFrontier/"$language""$i".p   -p $language & done; done
+for language in aax aab abx axa aba abb ; do for i in `seq 1 5`; do python Marcus.py  --quiet  -t 30  -d 2 -n $i --save paretoFrontier/"$language""$i"_noSyllable.p   -p $language --noSyllables & done; done
+```
+Checkpoints will be exported to `paretoFrontier`, and you can see our precomputed checkpoints in this directory as well.
+
+To produce graphs showing generalization across languages and across examples for all of these results run `graphMarcus.py` as follows:
+Figure 6:
+```
+python graphMarcus.py  aab,aba aba,aab abb,aab aab,abb -n 4 --samples 15 --export figures/AGL/mainBar.eps --colors gold cyan beige pink -b
+```
+Figure S4:
+```
+for X in aax aab abx axa aba abb ; do for Y in aax aab abx axa aba abb ; do if [ $X != $Y ] ; then python graphMarcus.py "$X","$Y" -n 4 --samples 15 --export figures/AGL/"$X"_"$Y".png; fi; done; done
+```
+
+To produce Pareto frontiers showing fine-grained results on specific languages (Figure 7), run `plotParetoFront.py` as follows:
+python plotParetoFront.py paretoFrontier/abb1_illustration.p  -t "Pareto front for ABB, 1 example" -a  -e figures/abb1_final.png -c 16 --examples 0 -l 16_-5_-2_bottom_center 13_-15_-4_top_center
+python plotParetoFront.py paretoFrontier/abb3_illustration.p  -t "Pareto front for ABB, 3 examples" -a  -e figures/abb3_final.png --correct 16 --examples 0 1 2 -l 16_-5_-3.5_bottom_center 19_-10_-5_bottom_center
+python plotParetoFront.py  -e figures/ChineseFront_final.png  paretoFrontier/Chinese3_illustration.p   -t "Pareto front for Mandarin (AAx)"  --examples 0 1 2 --correct 7 -l 7_-10_-3_center_left 0_-18.5_-4_top_center 17_-5_-5_bottom_center 
+python plotParetoFront.py paretoFrontier/Odden_3.2_Polish_depth=3_mb=6_sb=52.p  -t "Pareto front for Polish" -a  -c 14 -e figures/PolishFront_final.png -l  14_-16.5_-3.1_bottom_center  0_-20.75_-3.55_top_center --examples 6 12
+
+** Running learned inductive bias experiments
+
+The prior over linguistic rules is learned using a EM-like procedure where the system alternates learning a distribution over rules (fixing the top 100 theories for each language), and then going back and reupdating the top 100 rule sets for each language according to the new inductive bias. The entry point for this iterative procedure is `ec.py` which may be invoked (without any commandline arguments) provided that the top 100 theories for each language have been saved into checkpoints under `experimentOutputs`. We provide such checkpoints for those who want to experiment with inductive bias learning without rerunning the linguistic rule synthesizer.
+
+Executing `ec.py` as such:
+```
+$ python ec.py
+```
+will actually run this inference loop. It will repeatedly invoke a backend, `UG.py`, which will by default be executed with `pypy`. If instead you wish to run things without using `pypy` (for instance if you do not have it installed on your system), then you can run `ec.py` with the commandline argument `DUMMY` which will output all of the commandlines which *would have to be run* in order to perform the inference loop by calling out to the `UG.py` backend. As you can see, this uses `pypy`:
+
+```
+$ python ec.py DUMMY
+Would now execute:
+pypy UG.py --export experimentOutputs/ug0.p experimentOutputs/Odden_105_Bukusu_incremental_disableClean=False_features=sophisticated_geometry=True.p experimentOutputs/Odden_81_Koasati_incremental_disableClean=False_features=sophisticated_geometry=True.p experimentOutputs/Halle_125_Indonesian_incremental_disableClean=False_features=sophisticated_geometry=True.p experimentOutputs/Odden_85_Samoan_incremental_disableClean=False_features=sophisticated_geometry=True.p ...
+...
+```
+
+You can simply replace each of these `pypy` invocations with an identical `python` invocation, but beware: expect a 10x or so slow down as a consequence of not using `pypy`.
+
+The estimated inductive biases are modeled as probabilistic grammars and saved as pickle files under `experimentOutputs`. The file `experimentOutputs/ug0.p` is the pickle file of the probabilistic grammar after the first iteration of this alternating, EM-like learning procedure, and `experimentOutputs/ug1.p` is the pickle file of the probabilistic grammar after the second iteration. We did not run a third iteration.
+
+To view the learned probabilistic grammar over rules, you can use `graphUniversal.py`, which expects a pickled probabilistic grammar:
+```
+$ python graphUniversal.py experimentOutputs/ug1.p
+-2.97030814771 Rule::=[+vowel]→[-hiTn]/_[-vowel]₀[+hiTn +vowel]
+-2.38820494743 Rule::=[-son]→[-voice]/_Trigger
+-2.97030970484 Rule::=[+nasal]→αplace/Trigger_[-vowel]
+...
+```
+
+To resolve a problem from scratch using the inductive bias imparted by a learned probabilistic grammar over linguistic rules, you can run `driver.py` with the commandline argument `-u experimentOutputs/<pickle-file-for-probabilistic-grammar>`. For instance, to produce Figure 8B's Sakha grammar, you can do:
+```
+$ python driver.py -u experimentOutputs/ug1.p --timeout 24 -t 100 --geometry --features sophisticated Halle_153_Yokuts incremental
+```
+
+To compare the accuracy of the learned theories pre/post-estimating this inductive bias (Figure 7A), execute
+```
+$ python montage.py --final --ground --universal
+```
+
+** Data sets of linguistic problems
+
+Linguistic data sets are stored in a class called `Problem` and defined in `problems.py`. Additional problems (instances of `Problem`) are defined in `textbook_problems.py`. These may be loaded by importing these files and indexing the dictionary `Problem.named` with the name of the corresponding problem. For example:
+```
+$ python
+>>> from problems import *
+Loaded Odden A1 problem from Kikurai, named Odden_A1_Kikurai
+Loaded Odden A2 problem from Modern Greek, named Odden_A2_Modern_Greek
+Loaded Odden A3 problem from Farsi, named Odden_A3_Farsi
+...
+>>> from textbook_problems import *
+Loaded Odden 68-69 problem from Russian, named Odden_68_69_Russian
+Loaded Odden 73-74 problem from Finnish, named Odden_73_74_Finnish
+...
+>>> Problem.named['Odden_79_Jita']
+<problems.Problem instance at 0x7f000b1c7dc0>
+>>> Problem.named['Odden_79_Jita'].data
+[(u'oku\u03b2uma', u'oku\u03b2umira', u'oku\u03b2umana', u'oku\u03b2umirana', u'okumu\u03b2u\u0301ma', u'okumu\u03b2u\u0301mira', u'okuc\u030ci\u03b2u\u0301ma', u'okuc\u030ci\u03b2u\u0301mira'), (u'okusi\u03b2a', u'okusi\u03b2ira', u'okusi\u03b2ana', u'okusi\u03b2irana', u'okumusi\u0301\u03b2a', u'okumusi\u0301\u03b2ira', u'okuc\u030cisi\u0301\u03b2a', u'okuc\u030cisi\u0301\u03b2ira'), (u'okulu\u0301ma', u'okulumi\u0301ra', u'okuluma\u0301na', u'okulumi\u0301rana', None, None, None, None), (u'okuku\u0301\u03b2a', u'okuku\u03b2i\u0301ra', u'okuku\u03b2a\u0301na', u'okuku\u03b2i\u0301rana', None, None, None, None)]
+```
+
+Ground truth underlying forms are stored in `grading.py` in objects which are instances of the class `GoldSolution`. You can access them by indexing the dictionary named `GoldSolution.solutions`. For example:
+```
+>>> from grading import *
+>>> GoldSolution.solutions['Odden_79_Jita']
+<grading.GoldSolution instance at 0x7f000b28a7d0>
+>>> GoldSolution.solutions['Odden_79_Jita'].prefixes
+[u'oku', u'oku', u'oku', u'oku', u'oku\u0301mu\u0301', u'oku\u0301mu\u0301', u'okuc\u030ci\u0301', u'oku\u0301c\u030ci\u0301']
+>>> GoldSolution.solutions['Odden_79_Jita'].suffixes
+[u'a', u'ira', u'ana', u'irana', u'a', u'ira', u'a', u'ira']
+>>> GoldSolution.solutions['Odden_79_Jita'].underlyingForms
+{(u'okulu\u0301ma', u'okulumi\u0301ra', u'okuluma\u0301na', u'okulumi\u0301rana', None, None, None, None): u'lu\u0301m', (u'oku\u03b2uma', u'oku\u03b2umira', u'oku\u03b2umana', u'oku\u03b2umirana', u'okumu\u03b2u\u0301ma', u'okumu\u03b2u\u0301mira', u'okuc\u030ci\u03b2u\u0301ma', u'okuc\u030ci\u03b2u\u0301mira'): u'\u03b2um', (u'okusi\u03b2a', u'okusi\u03b2ira', u'okusi\u03b2ana', u'okusi\u03b2irana', u'okumusi\u0301\u03b2a', u'okumusi\u0301\u03b2ira', u'okuc\u030cisi\u0301\u03b2a', u'okuc\u030cisi\u0301\u03b2ira'): u'si\u03b2', (u'okuku\u0301\u03b2a', u'okuku\u03b2i\u0301ra', u'okuku\u03b2a\u0301na', u'okuku\u03b2i\u0301rana', None, None, None, None): u'ku\u0301\u03b2'}
+```
+
+Manually graded problems are stored in `grades.csv`, which contains (in 5 columns per language) the language name, the number of processes in the correct solution, the number of our predicted processes which were correct, the number of our predicted processes which were incorrect, and the lexicon accuracy for that problem. This file is loaded and processed by `montage.py`.

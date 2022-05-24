@@ -1,0 +1,16 @@
+[('zrɔ̃', 'zrɔ̃'), ('ñra', 'ñra'), ('rɔ̃', 'lɔ̃'), ('kpra', 'kpla'), ('mraɡoo', 'mlaɡoo'), ('ɡbraa', 'ɡblaa'), ('roro', 'lolo'), ('wru', 'wlu'), ('βra', 'βla'), ('srɔ̃', 'srɔ̃'), ('rãkre', 'lãkle'), ('hre', 'hle'), ('vrɔ', 'vlɔ'), ('atra', 'atra'), ('dru', 'dru'), ('fre', 'fle'), ('ɡramaa', 'ɡlamaa'), ('ritsa', 'litsa'), ('dzre', 'dzre'), ('ɣra', 'ɣla'), ('xroroo', 'xloloo'), ('tsro', 'tsro'), ('ɸre', 'ɸle'), ('brema', 'blema'), ('dɔrere', 'dɔlele'), ('ŋrɔ', 'ŋlɔ'), ('jre', 'jre'), ('adoɡro', 'adoɡlo'), ('kpru', 'kplu'), ('kpari', 'kpali'), ('kraro', 'klalo'), ('atrakpoe', 'atrakpoe')]
+[('zlɔ̃', 'zrɔ̃'), ('ñla', 'ñra'), ('lɔ̃', 'lɔ̃'), ('kpla', 'kpla'), ('mlaɡoo', 'mlaɡoo'), ('ɡblaa', 'ɡblaa'), ('lolo', 'lolo'), ('wlu', 'wlu'), ('βla', 'βla'), ('slɔ̃', 'srɔ̃'), ('lãkle', 'lãkle'), ('hle', 'hle'), ('vlɔ', 'vlɔ'), ('atla', 'atra'), ('dlu', 'dru'), ('fle', 'fle'), ('ɡlamaa', 'ɡlamaa'), ('litsa', 'litsa'), ('dzle', 'dzre'), ('ɣla', 'ɣla'), ('xloloo', 'xloloo'), ('tslo', 'tsro'), ('ɸle', 'ɸle'), ('blema', 'blema'), ('dɔlele', 'dɔlele'), ('ŋlɔ', 'ŋlɔ'), ('jle', 'jre'), ('adoɡlo', 'adoɡlo'), ('kplu', 'kplu'), ('kpali', 'kpali'), ('klalo', 'klalo'), ('atlakpoe', 'atrakpoe')]
+[1;31mUnsatisfiable constraints:[0;31m
+/z . r . ɔ̃/ didn't change
+/# . r . ɔ̃/ changed
+/p . r . a/ changed
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/ñ . l . a/ changed
+/s . l . ɔ̃/ changed
+/k . l . e/ didn't change
+/d . l . u/ changed
+/z . l . ɔ̃/ changed
+/j . l . e/ changed
+[0;0m
+Could not discover rule.

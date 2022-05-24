@@ -1,0 +1,187 @@
+[['toniro', 'notoniroti'], ['jaarato', 'nojaaratoti'], ['kanari', 'nojanariti'], ['kosiri', 'nojosiriti'], ['pisiro', 'nowisiroti'], ['porita', 'noworitati']]
+toniro  >  ['t', 'o', 'n', 'i', 'r', 'o'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+notoniroti  >  ['n', 'o', 't', 'o', 'n', 'i', 'r', 'o', 't', 'i'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+jaarato  >  ['j', 'a', 'a', 'r', 'a', 't', 'o'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+nojaaratoti  >  ['n', 'o', 'j', 'a', 'a', 'r', 'a', 't', 'o', 't', 'i'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+kanari  >  ['k', 'a', 'n', 'a', 'r', 'i'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+nojanariti  >  ['n', 'o', 'j', 'a', 'n', 'a', 'r', 'i', 't', 'i'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+kosiri  >  ['k', 'o', 's', 'i', 'r', 'i'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+nojosiriti  >  ['n', 'o', 'j', 'o', 's', 'i', 'r', 'i', 't', 'i'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+pisiro  >  ['p', 'i', 's', 'i', 'r', 'o'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+nowisiroti  >  ['n', 'o', 'w', 'i', 's', 'i', 'r', 'o', 't', 'i'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+porita  >  ['p', 'o', 'r', 'i', 't', 'a'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+noworitati  >  ['n', 'o', 'w', 'o', 'r', 'i', 't', 'a', 't', 'i'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g'}
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun var5A () String)
+(declare-fun var5B () String)
+(declare-fun unch25A () String)
+(declare-fun ch5A () String)
+(declare-fun unch15A () String)
+(declare-fun stem5 () String)
+(declare-fun unch25B () String)
+(declare-fun ch5B () String)
+(declare-fun unch15B () String)
+(declare-fun l5 () Int)
+(declare-fun sc5A () Int)
+(declare-fun sc5B () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= "toniro" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "notoniroti" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= "jaarato" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "nojaaratoti" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= "kanari" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "nojanariti" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= "kosiri" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "nojosiriti" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= "pisiro" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "nowisiroti" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= (str.len var5A) 1))
+(assert (<= (str.len var5B) 1))
+(assert (= (str.++ preA (str.++ stem5 sufA)) (str.++ unch15A (str.++ ch5A unch25A))))
+(assert (= (str.++ preB (str.++ stem5 sufB)) (str.++ unch15B (str.++ ch5B unch25B))))
+(assert (= "porita" (str.++ unch15A (str.++ var5A unch25A))))
+(assert (= "noworitati" (str.++ unch15B (str.++ var5B unch25B))))
+(assert (= (str.len stem5) l5))
+(assert (= (ite (= ch5A var5A) 0 1) sc5A))
+(assert (= (ite (= ch5B var5B) 0 1) sc5B))
+(assert (<= sc5A 1))
+(assert (<= sc5B 1))
+(assert (= (+ 0 0 sc0A sc0B 0 sc1A sc1B 0 sc2A sc2B 0 sc3A sc3B 0 sc4A sc4B 0 sc5A sc5B)
+   4))
+(assert (= (+ 0 sc0A sc1A sc2A sc3A sc4A sc5A) 0))
+
+[('toniro', 'toniro'), ('notoniroti', 'notoniroti'), ('jaarato', 'jaarato'), ('nojaaratoti', 'nojaaratoti'), ('kanari', 'kanari'), ('nokanariti', 'nojanariti'), ('kosiri', 'kosiri'), ('nokosiriti', 'nojosiriti'), ('pisiro', 'pisiro'), ('nopisiroti', 'nowisiroti'), ('porita', 'porita'), ('noporitati', 'noworitati')]
+Rule: ({'syllabic': '+'}, {'dorsal': '+'}, {})
+N: 64
+N+: 2
+N-: 62
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 54090
+Simplicity score: 54090
+Simplicity: 54090
+Log # models: 176
+Likelihood: 10560
+Rule: ({'syllabic': '+'}, {'labial': '+'}, {})
+N: 98
+N+: 2
+N-: 96
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 54090
+Simplicity score: 54090
+Simplicity: 54090
+Log # models: 151
+Likelihood: 9060
+[({'approximant': '+', 'consonant': '-', 'voice': '+', 'continuant': '+', 'round': '-', 'front': '+'}, ({'syllabic': '+'}, {'dorsal': '+'}, {})), ({'low': '-', 'round': '+', 'back': '+', 'front': '-', 'voice': '+', 'high': '+'}, ({'syllabic': '+'}, {'labial': '+'}, {}))]
+Successful synthesis! Here is the rule:
+[({'approximant': '+', 'consonant': '-', 'voice': '+', 'continuant': '+', 'round': '-', 'front': '+'}, ({'syllabic': '+'}, {'dorsal': '+'}, {})), ({'low': '-', 'round': '+', 'back': '+', 'front': '-', 'voice': '+', 'high': '+'}, ({'syllabic': '+'}, {'labial': '+'}, {}))]
+13.11user 0.04system 0:13.17elapsed 99%CPU (0avgtext+0avgdata 51580maxresident)k
+0inputs+24outputs (0major+7768minor)pagefaults 0swaps

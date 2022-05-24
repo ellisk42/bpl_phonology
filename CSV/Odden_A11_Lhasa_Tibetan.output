@@ -1,0 +1,18 @@
+[('aŋɡu', 'aŋɡu'), ('aŋṭãã', 'aŋṭãã'), ('aŋba', 'aŋba'), ('apsoo', 'apsoo'), ('amʧɔɔ', 'amʧɔɔ'), ('tukṭyy', 'tukṭyy'), ('amto', 'amto'), ('ɨɣu', 'ɨɣu'), ('ɨmʧi', 'ɨmʧi'), ('uṭɨ', 'uṭɨ'), ('uβɪɪ', 'uβɪɪ'), ('ea', 'ea'), ('embo', 'embo'), ('ʊʊtsi', 'ʊʊtsi'), ('ka', 'qa'), ('kaa', 'qaa'), ('kaŋba', 'qaŋba'), ('kamba', 'qamba'), ('kam', 'qam'), ('kamtoo', 'qamtoo'), ('kaaβo', 'qaaβo'), ('kɨkṭi', 'kɨkṭi'), ('kɨβu', 'kɨβu'), ('kɨɨŋɡuu', 'kɨɨŋɡuu'), ('kik', 'kik'), ('kiṭuu', 'kiṭuu'), ('kɪɪcuu', 'kɪɪcuu'), ('kɪɪrii', 'kɪɪrii'), ('kiiɣuu', 'kiiɣuu'), ('ku', 'ku'), ('kupcɨ', 'kupcɨ'), ('kupcaa', 'kupcaa'), ('kɛnca', 'kɛnca'), ('kɛmbo', 'kɛmbo'), ('keɣøø', 'keɣøø'), ('kerβa', 'kerβa'), ('ko', 'qo'), ('komba', 'qomba'), ('kɔr', 'qɔr'), ('kɔɔɔɔ', 'qɔɔɔɔ'), ('ʧʰea', 'ʧʰea'), ('ʧʰuɣum', 'ʧʰuɣum'), ('topcaa', 'topcaa'), ('tʰoõõ', 'tʰoõõ'), ('ṭaaãã', 'ṭaaãã'), ('ṭuɣɨ', 'ṭuɣɨ'), ('ṭuŋɢo', 'ṭuɴɢo'), ('nɛŋɢaa', 'nɛɴɢaa'), ('paŋɢɔɔ', 'paɴɢɔɔ'), ('pɛɛβãã', 'pɛɛβãã'), ('simɡãã', 'simɢãã')]
+[('aɴɡu', 'aŋɡu'), ('aɴṭãã', 'aŋṭãã'), ('aɴba', 'aŋba'), ('apsoo', 'apsoo'), ('amʧɔɔ', 'amʧɔɔ'), ('tuqṭyy', 'tukṭyy'), ('amto', 'amto'), ('ɨɣu', 'ɨɣu'), ('ɨmʧi', 'ɨmʧi'), ('uṭɨ', 'uṭɨ'), ('uβɪɪ', 'uβɪɪ'), ('ea', 'ea'), ('embo', 'embo'), ('ʊʊtsi', 'ʊʊtsi'), ('qa', 'qa'), ('qaa', 'qaa'), ('qaɴba', 'qaŋba'), ('qamba', 'qamba'), ('qam', 'qam'), ('qamtoo', 'qamtoo'), ('qaaβo', 'qaaβo'), ('qɨqṭi', 'kɨkṭi'), ('qɨβu', 'kɨβu'), ('kɨɨɴɡuu', 'kɨɨŋɡuu'), ('qiq', 'kik'), ('qiṭuu', 'kiṭuu'), ('qɪɪcuu', 'kɪɪcuu'), ('qɪɪrii', 'kɪɪrii'), ('qiiɣuu', 'kiiɣuu'), ('qu', 'ku'), ('qupcɨ', 'kupcɨ'), ('qupcaa', 'kupcaa'), ('qɛnca', 'kɛnca'), ('qɛmbo', 'kɛmbo'), ('qeɣøø', 'keɣøø'), ('qerβa', 'kerβa'), ('qo', 'qo'), ('qomba', 'qomba'), ('qɔr', 'qɔr'), ('qɔɔɔɔ', 'qɔɔɔɔ'), ('ʧʰea', 'ʧʰea'), ('ʧʰuɣum', 'ʧʰuɣum'), ('topcaa', 'topcaa'), ('tʰoõõ', 'tʰoõõ'), ('ṭaaãã', 'ṭaaãã'), ('ṭuɣɨ', 'ṭuɣɨ'), ('ṭuɴɢo', 'ṭuɴɢo'), ('nɛɴɢaa', 'nɛɴɢaa'), ('paɴɢɔɔ', 'paɴɢɔɔ'), ('pɛɛβãã', 'pɛɛβãã'), ('simɢãã', 'simɢãã')]
+[1;31mUnsatisfiable constraints:[0;31m
+/# . k . a/ changed
+/# . k . ɛ/ didn't change
+/# . k . o/ changed
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/a . ɴ . b/ changed
+/a . ɴ . ṭ/ changed
+/u . q . ṭ/ changed
+/a . ɴ . ɡ/ changed
+/# . q . ɨ/ changed
+/# . q . a/ didn't change
+[0;0m
+Could not discover rule.
+13.56user 0.07system 0:17.18elapsed 79%CPU (0avgtext+0avgdata 46624maxresident)k
+8inputs+8outputs (0major+6996minor)pagefaults 0swaps

@@ -1,0 +1,2091 @@
+[['atrózɨ', 'bʲizrózɨ', 'urózɨ'], ['atálɨ', 'bʲizálɨ', 'uálɨ'], ['atkaróvɨ', 'bʲizkaróvɨ', 'ukaróvɨ'], ['adbaradɨ́', 'bʲizbaradɨ́', 'ubaradɨ́'], ['atsʲistrɨ́', 'bʲissʲistrɨ́', 'usʲistrɨ́']]
+atrózɨ  >  ['a', 't', 'r', 'O', 'z', 'X'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X'}
+bʲizrózɨ  >  ['Z', 'i', 'z', 'r', 'O', 'z', 'X'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z'}
+urózɨ  >  ['u', 'r', 'O', 'z', 'X'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z'}
+atálɨ  >  ['a', 't', '1', 'l', 'X'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1'}
+bʲizálɨ  >  ['Z', 'i', 'z', '1', 'l', 'X'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1'}
+uálɨ  >  ['u', '1', 'l', 'X'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1'}
+atkaróvɨ  >  ['a', 't', 'k', 'a', 'r', 'O', 'v', 'X'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1'}
+bʲizkaróvɨ  >  ['Z', 'i', 'z', 'k', 'a', 'r', 'O', 'v', 'X'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1'}
+ukaróvɨ  >  ['u', 'k', 'a', 'r', 'O', 'v', 'X'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1'}
+adbaradɨ́  >  ['a', 'd', 'b', 'a', 'r', 'a', 'd', '2'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1', 'ɨ́': '2'}
+bʲizbaradɨ́  >  ['Z', 'i', 'z', 'b', 'a', 'r', 'a', 'd', '2'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1', 'ɨ́': '2'}
+ubaradɨ́  >  ['u', 'b', 'a', 'r', 'a', 'd', '2'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1', 'ɨ́': '2'}
+atsʲistrɨ́  >  ['a', 't', '3', 'i', 's', 't', 'r', '2'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1', 'ɨ́': '2', 'sʲ': '3'}
+bʲissʲistrɨ́  >  ['Z', 'i', 's', '3', 'i', 's', 't', 'r', '2'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1', 'ɨ́': '2', 'sʲ': '3'}
+usʲistrɨ́  >  ['u', '3', 'i', 's', 't', 'r', '2'] {'ø': 'A', 'ʃ': 'B', 'ɯ': 'C', 'ʤ': 'D', 'ʧ': 'E', 'ː': 'F', 'ɛ': 'G', 'ə': 'H', 'ɑ': 'I', 'œ': 'J', 'ŋ': 'K', 'ʋ': 'L', 'ʌ': 'M', 'ʊ': 'N', 'ʦ': 'P', 'æ': 'Q', 'ʣ': 'R', 'ʈ': 'S', 'ɖ': 'T', 'ʒ': 'U', 'ɱ': 'V', 'ɩ': 'W', 'ɲ': 'Y', 'ɡ': 'g', 'ó': 'O', 'ɨ': 'X', 'bʲ': 'Z', 'á': '1', 'ɨ́': '2', 'sʲ': '3'}
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun var0C () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun unch20C () String)
+(declare-fun ch0C () String)
+(declare-fun unch10C () String)
+(declare-fun sufC () String)
+(declare-fun preC () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun sc0C () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun var1C () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun unch21C () String)
+(declare-fun ch1C () String)
+(declare-fun unch11C () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun sc1C () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun var2C () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun unch22C () String)
+(declare-fun ch2C () String)
+(declare-fun unch12C () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun sc2C () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun var3C () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun unch23C () String)
+(declare-fun ch3C () String)
+(declare-fun unch13C () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun sc3C () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun var4C () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun unch24C () String)
+(declare-fun ch4C () String)
+(declare-fun unch14C () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun sc4C () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (<= (str.len var0C) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= (str.++ preC (str.++ stem0 sufC)) (str.++ unch10C (str.++ ch0C unch20C))))
+(assert (= "atrOzX" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "ZizrOzX" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= "urOzX" (str.++ unch10C (str.++ var0C unch20C))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (= (ite (= ch0C var0C) 0 1) sc0C))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= sc0C 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (<= (str.len var1C) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= (str.++ preC (str.++ stem1 sufC)) (str.++ unch11C (str.++ ch1C unch21C))))
+(assert (= "at1lX" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "Ziz1lX" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= "u1lX" (str.++ unch11C (str.++ var1C unch21C))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (= (ite (= ch1C var1C) 0 1) sc1C))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= sc1C 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (<= (str.len var2C) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= (str.++ preC (str.++ stem2 sufC)) (str.++ unch12C (str.++ ch2C unch22C))))
+(assert (= "atkarOvX" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "ZizkarOvX" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= "ukarOvX" (str.++ unch12C (str.++ var2C unch22C))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (= (ite (= ch2C var2C) 0 1) sc2C))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= sc2C 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (<= (str.len var3C) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= (str.++ preC (str.++ stem3 sufC)) (str.++ unch13C (str.++ ch3C unch23C))))
+(assert (= "adbarad2" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "Zizbarad2" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= "ubarad2" (str.++ unch13C (str.++ var3C unch23C))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (= (ite (= ch3C var3C) 0 1) sc3C))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= sc3C 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (<= (str.len var4C) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= (str.++ preC (str.++ stem4 sufC)) (str.++ unch14C (str.++ ch4C unch24C))))
+(assert (= "at3istr2" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "Zis3istr2" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= "u3istr2" (str.++ unch14C (str.++ var4C unch24C))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (= (ite (= ch4C var4C) 0 1) sc4C))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= sc4C 1))
+(assert (= (+ 0
+      0
+      sc0A
+      sc0B
+      sc0C
+      0
+      sc1A
+      sc1B
+      sc1C
+      0
+      sc2A
+      sc2B
+      sc2C
+      0
+      sc3A
+      sc3B
+      sc3C
+      0
+      sc4A
+      sc4B
+      sc4C)
+   4))
+
+[('atrózɨ', 'atrózɨ'), ('bʲizrózɨ', 'bʲizrózɨ'), ('urózɨ', 'urózɨ'), ('atálɨ', 'atálɨ'), ('bʲizálɨ', 'bʲizálɨ'), ('uálɨ', 'uálɨ'), ('atkaróvɨ', 'atkaróvɨ'), ('bʲizkaróvɨ', 'bʲizkaróvɨ'), ('ukaróvɨ', 'ukaróvɨ'), ('atbaradɨ́', 'adbaradɨ́'), ('bʲizbaradɨ́', 'bʲizbaradɨ́'), ('ubaradɨ́', 'ubaradɨ́'), ('atsʲistrɨ́\\x00issʲistrɨ́', 'atsʲistrɨ́'), ('bʲizsʲistrɨ́\\x00issʲistrɨ́', 'bʲissʲistrɨ́'), ('usʲistrɨ́\\x00issʲistrɨ́', 'usʲistrɨ́')]
+WARNING: z3str returned invalid symbols
+None
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun var0C () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun unch20C () String)
+(declare-fun ch0C () String)
+(declare-fun unch10C () String)
+(declare-fun sufC () String)
+(declare-fun preC () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun sc0C () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun var1C () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun unch21C () String)
+(declare-fun ch1C () String)
+(declare-fun unch11C () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun sc1C () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun var2C () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun unch22C () String)
+(declare-fun ch2C () String)
+(declare-fun unch12C () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun sc2C () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun var3C () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun unch23C () String)
+(declare-fun ch3C () String)
+(declare-fun unch13C () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun sc3C () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun var4C () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun unch24C () String)
+(declare-fun ch4C () String)
+(declare-fun unch14C () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun sc4C () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (<= (str.len var0C) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= (str.++ preC (str.++ stem0 sufC)) (str.++ unch10C (str.++ ch0C unch20C))))
+(assert (= "atrOzX" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "ZizrOzX" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= "urOzX" (str.++ unch10C (str.++ var0C unch20C))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (= (ite (= ch0C var0C) 0 1) sc0C))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= sc0C 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (<= (str.len var1C) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= (str.++ preC (str.++ stem1 sufC)) (str.++ unch11C (str.++ ch1C unch21C))))
+(assert (= "at1lX" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "Ziz1lX" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= "u1lX" (str.++ unch11C (str.++ var1C unch21C))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (= (ite (= ch1C var1C) 0 1) sc1C))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= sc1C 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (<= (str.len var2C) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= (str.++ preC (str.++ stem2 sufC)) (str.++ unch12C (str.++ ch2C unch22C))))
+(assert (= "atkarOvX" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "ZizkarOvX" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= "ukarOvX" (str.++ unch12C (str.++ var2C unch22C))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (= (ite (= ch2C var2C) 0 1) sc2C))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= sc2C 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (<= (str.len var3C) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= (str.++ preC (str.++ stem3 sufC)) (str.++ unch13C (str.++ ch3C unch23C))))
+(assert (= "adbarad2" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "Zizbarad2" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= "ubarad2" (str.++ unch13C (str.++ var3C unch23C))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (= (ite (= ch3C var3C) 0 1) sc3C))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= sc3C 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (<= (str.len var4C) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= (str.++ preC (str.++ stem4 sufC)) (str.++ unch14C (str.++ ch4C unch24C))))
+(assert (= "at3istr2" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "Zis3istr2" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= "u3istr2" (str.++ unch14C (str.++ var4C unch24C))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (= (ite (= ch4C var4C) 0 1) sc4C))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= sc4C 1))
+(assert (= (+ 0
+      0
+      sc0A
+      sc0B
+      sc0C
+      0
+      sc1A
+      sc1B
+      sc1C
+      0
+      sc2A
+      sc2B
+      sc2C
+      0
+      sc3A
+      sc3B
+      sc3C
+      0
+      sc4A
+      sc4B
+      sc4C)
+   5))
+
+[('atrózɨ', 'atrózɨ'), ('bʲizrózɨ', 'bʲizrózɨ'), ('urózɨ', 'urózɨ'), ('atálɨ', 'atálɨ'), ('bʲizálɨ', 'bʲizálɨ'), ('uálɨ', 'uálɨ'), ('atkaró\\x00ɨ', 'atkaróvɨ'), ('bʲizkaró\\x00ɨ', 'bʲizkaróvɨ'), ('ukaró\\x00ɨ', 'ukaróvɨ'), ('atbaradɨ́', 'adbaradɨ́'), ('bʲizbaradɨ́', 'bʲizbaradɨ́'), ('ubaradɨ́', 'ubaradɨ́'), ('atsʲistrɨ́', 'atsʲistrɨ́'), ('bʲizsʲistrɨ́', 'bʲissʲistrɨ́'), ('usʲistrɨ́', 'usʲistrɨ́')]
+WARNING: z3str returned invalid symbols
+None
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun var0C () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun unch20C () String)
+(declare-fun ch0C () String)
+(declare-fun unch10C () String)
+(declare-fun sufC () String)
+(declare-fun preC () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun sc0C () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun var1C () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun unch21C () String)
+(declare-fun ch1C () String)
+(declare-fun unch11C () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun sc1C () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun var2C () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun unch22C () String)
+(declare-fun ch2C () String)
+(declare-fun unch12C () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun sc2C () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun var3C () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun unch23C () String)
+(declare-fun ch3C () String)
+(declare-fun unch13C () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun sc3C () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun var4C () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun unch24C () String)
+(declare-fun ch4C () String)
+(declare-fun unch14C () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun sc4C () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (<= (str.len var0C) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= (str.++ preC (str.++ stem0 sufC)) (str.++ unch10C (str.++ ch0C unch20C))))
+(assert (= "atrOzX" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "ZizrOzX" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= "urOzX" (str.++ unch10C (str.++ var0C unch20C))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (= (ite (= ch0C var0C) 0 1) sc0C))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= sc0C 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (<= (str.len var1C) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= (str.++ preC (str.++ stem1 sufC)) (str.++ unch11C (str.++ ch1C unch21C))))
+(assert (= "at1lX" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "Ziz1lX" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= "u1lX" (str.++ unch11C (str.++ var1C unch21C))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (= (ite (= ch1C var1C) 0 1) sc1C))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= sc1C 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (<= (str.len var2C) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= (str.++ preC (str.++ stem2 sufC)) (str.++ unch12C (str.++ ch2C unch22C))))
+(assert (= "atkarOvX" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "ZizkarOvX" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= "ukarOvX" (str.++ unch12C (str.++ var2C unch22C))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (= (ite (= ch2C var2C) 0 1) sc2C))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= sc2C 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (<= (str.len var3C) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= (str.++ preC (str.++ stem3 sufC)) (str.++ unch13C (str.++ ch3C unch23C))))
+(assert (= "adbarad2" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "Zizbarad2" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= "ubarad2" (str.++ unch13C (str.++ var3C unch23C))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (= (ite (= ch3C var3C) 0 1) sc3C))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= sc3C 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (<= (str.len var4C) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= (str.++ preC (str.++ stem4 sufC)) (str.++ unch14C (str.++ ch4C unch24C))))
+(assert (= "at3istr2" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "Zis3istr2" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= "u3istr2" (str.++ unch14C (str.++ var4C unch24C))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (= (ite (= ch4C var4C) 0 1) sc4C))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= sc4C 1))
+(assert (= (+ 0
+      0
+      sc0A
+      sc0B
+      sc0C
+      0
+      sc1A
+      sc1B
+      sc1C
+      0
+      sc2A
+      sc2B
+      sc2C
+      0
+      sc3A
+      sc3B
+      sc3C
+      0
+      sc4A
+      sc4B
+      sc4C)
+   6))
+
+[('adb\\x00\\x00\\x00\\x00\\x00\\x00\\x00atrózɨ', 'atrózɨ'), ('bʲizrózɨ', 'bʲizrózɨ'), ('urózɨ', 'urózɨ'), ('adb\\x00\\x00\\x00\\x00\\x00\\x00\\x00atálɨ', 'atálɨ'), ('bʲizálɨ', 'bʲizálɨ'), ('uálɨ', 'uálɨ'), ('adb\\x00\\x00\\x00\\x00\\x00\\x00\\x00atkaróvɨ', 'atkaróvɨ'), ('bʲizkaróvɨ', 'bʲizkaróvɨ'), ('ukaróvɨ', 'ukaróvɨ'), ('adb\\x00\\x00\\x00\\x00\\x00\\x00\\x00atbaradɨ́', 'adbaradɨ́'), ('bʲizbaradɨ́', 'bʲizbaradɨ́'), ('ubaradɨ́', 'ubaradɨ́'), ('adb\\x00\\x00\\x00\\x00\\x00\\x00\\x00atsʲistrɨ́', 'atsʲistrɨ́'), ('bʲizsʲistrɨ́', 'bʲissʲistrɨ́'), ('usʲistrɨ́', 'usʲistrɨ́')]
+WARNING: z3str returned invalid symbols
+None
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun var0C () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun unch20C () String)
+(declare-fun ch0C () String)
+(declare-fun unch10C () String)
+(declare-fun sufC () String)
+(declare-fun preC () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun sc0C () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun var1C () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun unch21C () String)
+(declare-fun ch1C () String)
+(declare-fun unch11C () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun sc1C () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun var2C () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun unch22C () String)
+(declare-fun ch2C () String)
+(declare-fun unch12C () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun sc2C () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun var3C () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun unch23C () String)
+(declare-fun ch3C () String)
+(declare-fun unch13C () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun sc3C () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun var4C () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun unch24C () String)
+(declare-fun ch4C () String)
+(declare-fun unch14C () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun sc4C () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (<= (str.len var0C) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= (str.++ preC (str.++ stem0 sufC)) (str.++ unch10C (str.++ ch0C unch20C))))
+(assert (= "atrOzX" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "ZizrOzX" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= "urOzX" (str.++ unch10C (str.++ var0C unch20C))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (= (ite (= ch0C var0C) 0 1) sc0C))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= sc0C 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (<= (str.len var1C) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= (str.++ preC (str.++ stem1 sufC)) (str.++ unch11C (str.++ ch1C unch21C))))
+(assert (= "at1lX" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "Ziz1lX" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= "u1lX" (str.++ unch11C (str.++ var1C unch21C))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (= (ite (= ch1C var1C) 0 1) sc1C))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= sc1C 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (<= (str.len var2C) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= (str.++ preC (str.++ stem2 sufC)) (str.++ unch12C (str.++ ch2C unch22C))))
+(assert (= "atkarOvX" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "ZizkarOvX" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= "ukarOvX" (str.++ unch12C (str.++ var2C unch22C))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (= (ite (= ch2C var2C) 0 1) sc2C))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= sc2C 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (<= (str.len var3C) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= (str.++ preC (str.++ stem3 sufC)) (str.++ unch13C (str.++ ch3C unch23C))))
+(assert (= "adbarad2" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "Zizbarad2" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= "ubarad2" (str.++ unch13C (str.++ var3C unch23C))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (= (ite (= ch3C var3C) 0 1) sc3C))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= sc3C 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (<= (str.len var4C) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= (str.++ preC (str.++ stem4 sufC)) (str.++ unch14C (str.++ ch4C unch24C))))
+(assert (= "at3istr2" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "Zis3istr2" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= "u3istr2" (str.++ unch14C (str.++ var4C unch24C))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (= (ite (= ch4C var4C) 0 1) sc4C))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= sc4C 1))
+(assert (= (+ 0
+      0
+      sc0A
+      sc0B
+      sc0C
+      0
+      sc1A
+      sc1B
+      sc1C
+      0
+      sc2A
+      sc2B
+      sc2C
+      0
+      sc3A
+      sc3B
+      sc3C
+      0
+      sc4A
+      sc4B
+      sc4C)
+   7))
+
+[('atrózɨ', 'atrózɨ'), ('bʲizrózɨ', 'bʲizrózɨ'), ('urózɨ', 'urózɨ'), ('atá\\x00álɨ', 'atálɨ'), ('bʲizá\\x00álɨ', 'bʲizálɨ'), ('uá\\x00álɨ', 'uálɨ'), ('atkaróvɨ', 'atkaróvɨ'), ('bʲizkaróvɨ', 'bʲizkaróvɨ'), ('ukaróvɨ', 'ukaróvɨ'), ('atbaradɨ́', 'adbaradɨ́'), ('bʲizbaradɨ́', 'bʲizbaradɨ́'), ('ubaradɨ́', 'ubaradɨ́'), ('atsʲistrɨ́bʲissʲistrɨ́', 'atsʲistrɨ́'), ('bʲizsʲistrɨ́bʲissʲistrɨ́', 'bʲissʲistrɨ́'), ('usʲistrɨ́bʲissʲistrɨ́', 'usʲistrɨ́')]
+WARNING: z3str returned invalid symbols
+None
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun var0C () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun unch20C () String)
+(declare-fun ch0C () String)
+(declare-fun unch10C () String)
+(declare-fun sufC () String)
+(declare-fun preC () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun sc0C () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun var1C () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun unch21C () String)
+(declare-fun ch1C () String)
+(declare-fun unch11C () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun sc1C () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun var2C () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun unch22C () String)
+(declare-fun ch2C () String)
+(declare-fun unch12C () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun sc2C () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun var3C () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun unch23C () String)
+(declare-fun ch3C () String)
+(declare-fun unch13C () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun sc3C () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun var4C () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun unch24C () String)
+(declare-fun ch4C () String)
+(declare-fun unch14C () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun sc4C () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (<= (str.len var0C) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= (str.++ preC (str.++ stem0 sufC)) (str.++ unch10C (str.++ ch0C unch20C))))
+(assert (= "atrOzX" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "ZizrOzX" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= "urOzX" (str.++ unch10C (str.++ var0C unch20C))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (= (ite (= ch0C var0C) 0 1) sc0C))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= sc0C 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (<= (str.len var1C) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= (str.++ preC (str.++ stem1 sufC)) (str.++ unch11C (str.++ ch1C unch21C))))
+(assert (= "at1lX" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "Ziz1lX" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= "u1lX" (str.++ unch11C (str.++ var1C unch21C))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (= (ite (= ch1C var1C) 0 1) sc1C))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= sc1C 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (<= (str.len var2C) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= (str.++ preC (str.++ stem2 sufC)) (str.++ unch12C (str.++ ch2C unch22C))))
+(assert (= "atkarOvX" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "ZizkarOvX" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= "ukarOvX" (str.++ unch12C (str.++ var2C unch22C))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (= (ite (= ch2C var2C) 0 1) sc2C))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= sc2C 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (<= (str.len var3C) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= (str.++ preC (str.++ stem3 sufC)) (str.++ unch13C (str.++ ch3C unch23C))))
+(assert (= "adbarad2" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "Zizbarad2" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= "ubarad2" (str.++ unch13C (str.++ var3C unch23C))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (= (ite (= ch3C var3C) 0 1) sc3C))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= sc3C 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (<= (str.len var4C) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= (str.++ preC (str.++ stem4 sufC)) (str.++ unch14C (str.++ ch4C unch24C))))
+(assert (= "at3istr2" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "Zis3istr2" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= "u3istr2" (str.++ unch14C (str.++ var4C unch24C))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (= (ite (= ch4C var4C) 0 1) sc4C))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= sc4C 1))
+(assert (= (+ 0
+      0
+      sc0A
+      sc0B
+      sc0C
+      0
+      sc1A
+      sc1B
+      sc1C
+      0
+      sc2A
+      sc2B
+      sc2C
+      0
+      sc3A
+      sc3B
+      sc3C
+      0
+      sc4A
+      sc4B
+      sc4C)
+   8))
+
+[('atrózɨ', 'atrózɨ'), ('bʲizárózɨ', 'bʲizrózɨ'), ('urózɨ', 'urózɨ'), ('atlɨ', 'atálɨ'), ('bʲizálɨ', 'bʲizálɨ'), ('ulɨ', 'uálɨ'), ('atkaróvɨ', 'atkaróvɨ'), ('bʲizákaróvɨ', 'bʲizkaróvɨ'), ('ukaróvɨ', 'ukaróvɨ'), ('atbaradɨ́\\x00izbaradɨ́', 'adbaradɨ́'), ('bʲizábaradɨ́\\x00izbaradɨ́', 'bʲizbaradɨ́'), ('ubaradɨ́\\x00izbaradɨ́', 'ubaradɨ́'), ('atsʲistrɨ́', 'atsʲistrɨ́'), ('bʲizásʲistrɨ́', 'bʲissʲistrɨ́'), ('usʲistrɨ́', 'usʲistrɨ́')]
+underlying: #
+underlying: bʲ
+underlying: i
+underlying: z
+underlying: á
+underlying: r
+underlying: ó
+underlying: z
+underlying: ɨ
+underlying: #
+surface: #
+surface: bʲ
+surface: i
+surface: z
+surface: r
+surface: ó
+surface: z
+surface: ɨ
+surface: #
+underlying: #
+underlying: a
+underlying: t
+underlying: l
+underlying: ɨ
+underlying: #
+surface: #
+surface: a
+surface: t
+surface: á
+surface: l
+surface: ɨ
+surface: #
+underlying: #
+underlying: u
+underlying: l
+underlying: ɨ
+underlying: #
+surface: #
+surface: u
+surface: á
+surface: l
+surface: ɨ
+surface: #
+underlying: #
+underlying: bʲ
+underlying: i
+underlying: z
+underlying: á
+underlying: k
+underlying: a
+underlying: r
+underlying: ó
+underlying: v
+underlying: ɨ
+underlying: #
+surface: #
+surface: bʲ
+surface: i
+surface: z
+surface: k
+surface: a
+surface: r
+surface: ó
+surface: v
+surface: ɨ
+surface: #
+WARNING: z3str returned invalid symbols
+None
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun var0C () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun unch20C () String)
+(declare-fun ch0C () String)
+(declare-fun unch10C () String)
+(declare-fun sufC () String)
+(declare-fun preC () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun sc0C () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun var1C () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun unch21C () String)
+(declare-fun ch1C () String)
+(declare-fun unch11C () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun sc1C () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun var2C () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun unch22C () String)
+(declare-fun ch2C () String)
+(declare-fun unch12C () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun sc2C () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun var3C () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun unch23C () String)
+(declare-fun ch3C () String)
+(declare-fun unch13C () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun sc3C () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun var4C () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun unch24C () String)
+(declare-fun ch4C () String)
+(declare-fun unch14C () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun sc4C () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (<= (str.len var0C) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= (str.++ preC (str.++ stem0 sufC)) (str.++ unch10C (str.++ ch0C unch20C))))
+(assert (= "atrOzX" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "ZizrOzX" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= "urOzX" (str.++ unch10C (str.++ var0C unch20C))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (= (ite (= ch0C var0C) 0 1) sc0C))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= sc0C 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (<= (str.len var1C) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= (str.++ preC (str.++ stem1 sufC)) (str.++ unch11C (str.++ ch1C unch21C))))
+(assert (= "at1lX" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "Ziz1lX" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= "u1lX" (str.++ unch11C (str.++ var1C unch21C))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (= (ite (= ch1C var1C) 0 1) sc1C))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= sc1C 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (<= (str.len var2C) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= (str.++ preC (str.++ stem2 sufC)) (str.++ unch12C (str.++ ch2C unch22C))))
+(assert (= "atkarOvX" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "ZizkarOvX" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= "ukarOvX" (str.++ unch12C (str.++ var2C unch22C))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (= (ite (= ch2C var2C) 0 1) sc2C))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= sc2C 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (<= (str.len var3C) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= (str.++ preC (str.++ stem3 sufC)) (str.++ unch13C (str.++ ch3C unch23C))))
+(assert (= "adbarad2" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "Zizbarad2" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= "ubarad2" (str.++ unch13C (str.++ var3C unch23C))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (= (ite (= ch3C var3C) 0 1) sc3C))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= sc3C 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (<= (str.len var4C) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= (str.++ preC (str.++ stem4 sufC)) (str.++ unch14C (str.++ ch4C unch24C))))
+(assert (= "at3istr2" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "Zis3istr2" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= "u3istr2" (str.++ unch14C (str.++ var4C unch24C))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (= (ite (= ch4C var4C) 0 1) sc4C))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= sc4C 1))
+(assert (= (+ 0
+      0
+      sc0A
+      sc0B
+      sc0C
+      0
+      sc1A
+      sc1B
+      sc1C
+      0
+      sc2A
+      sc2B
+      sc2C
+      0
+      sc3A
+      sc3B
+      sc3C
+      0
+      sc4A
+      sc4B
+      sc4C)
+   9))
+
+[('adurózɨ', 'atrózɨ'), ('bʲizurózɨ', 'bʲizrózɨ'), ('urózɨ', 'urózɨ'), ('adálɨ', 'atálɨ'), ('bʲizálɨ', 'bʲizálɨ'), ('álɨ', 'uálɨ'), ('adkaróvɨ', 'atkaróvɨ'), ('bʲizkaróvɨ', 'bʲizkaróvɨ'), ('karóvɨ', 'ukaróvɨ'), ('adbaradɨ́', 'adbaradɨ́'), ('bʲizbaradɨ́', 'bʲizbaradɨ́'), ('baradɨ́', 'ubaradɨ́'), ('adusʲistrɨ́', 'atsʲistrɨ́'), ('bʲizusʲistrɨ́', 'bʲissʲistrɨ́'), ('usʲistrɨ́', 'usʲistrɨ́')]
+underlying: #
+underlying: a
+underlying: d
+underlying: u
+underlying: r
+underlying: ó
+underlying: z
+underlying: ɨ
+underlying: #
+surface: #
+surface: a
+surface: t
+surface: r
+surface: ó
+surface: z
+surface: ɨ
+surface: #
+underlying: #
+underlying: bʲ
+underlying: i
+underlying: z
+underlying: u
+underlying: r
+underlying: ó
+underlying: z
+underlying: ɨ
+underlying: #
+surface: #
+surface: bʲ
+surface: i
+surface: z
+surface: r
+surface: ó
+surface: z
+surface: ɨ
+surface: #
+underlying: #
+underlying: á
+underlying: l
+underlying: ɨ
+underlying: #
+surface: #
+surface: u
+surface: á
+surface: l
+surface: ɨ
+surface: #
+underlying: #
+underlying: k
+underlying: a
+underlying: r
+underlying: ó
+underlying: v
+underlying: ɨ
+underlying: #
+surface: #
+surface: u
+surface: k
+surface: a
+surface: r
+surface: ó
+surface: v
+surface: ɨ
+surface: #
+underlying: #
+underlying: b
+underlying: a
+underlying: r
+underlying: a
+underlying: d
+underlying: ɨ́
+underlying: #
+surface: #
+surface: u
+surface: b
+surface: a
+surface: r
+surface: a
+surface: d
+surface: ɨ́
+surface: #
+underlying: #
+underlying: a
+underlying: d
+underlying: u
+underlying: sʲ
+underlying: i
+underlying: s
+underlying: t
+underlying: r
+underlying: ɨ́
+underlying: #
+surface: #
+surface: a
+surface: t
+surface: sʲ
+surface: i
+surface: s
+surface: t
+surface: r
+surface: ɨ́
+surface: #
+underlying: #
+underlying: bʲ
+underlying: i
+underlying: z
+underlying: u
+underlying: sʲ
+underlying: i
+underlying: s
+underlying: t
+underlying: r
+underlying: ɨ́
+underlying: #
+surface: #
+surface: bʲ
+surface: i
+surface: s
+surface: sʲ
+surface: i
+surface: s
+surface: t
+surface: r
+surface: ɨ́
+surface: #
+[1;31mUnsatisfiable constraints:[0;31m
+/i . z . u/ didn't change
+/i . s . t/ changed
+/a . d . u/ changed
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/d . k . a/ didn't change
+/s . t . r/ changed
+/ó . z . ɨ/ changed
+/t . r . ɨ́/ changed
+/d . u . r/ changed
+/u . sʲ . i/ changed
+/u . r . ó/ changed
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/# . á . l/ changed
+/# . k . a/ changed
+/# . bʲ . i/ didn't change
+/# . b . a/ changed
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/á . l . ɨ/ changed
+/d . u . r/ didn't change
+/k . a . r/ changed
+/l . ɨ . #/ changed
+/r . ó . v/ changed
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/a . d . u/ changed
+/i . z . u/ changed
+/i . z . u/ didn't change
+[0;0m
+None
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun var0C () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun unch20C () String)
+(declare-fun ch0C () String)
+(declare-fun unch10C () String)
+(declare-fun sufC () String)
+(declare-fun preC () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun sc0C () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun var1C () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun unch21C () String)
+(declare-fun ch1C () String)
+(declare-fun unch11C () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun sc1C () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun var2C () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun unch22C () String)
+(declare-fun ch2C () String)
+(declare-fun unch12C () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun sc2C () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun var3C () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun unch23C () String)
+(declare-fun ch3C () String)
+(declare-fun unch13C () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun sc3C () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun var4C () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun unch24C () String)
+(declare-fun ch4C () String)
+(declare-fun unch14C () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun sc4C () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (<= (str.len var0C) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= (str.++ preC (str.++ stem0 sufC)) (str.++ unch10C (str.++ ch0C unch20C))))
+(assert (= "atrOzX" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "ZizrOzX" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= "urOzX" (str.++ unch10C (str.++ var0C unch20C))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (= (ite (= ch0C var0C) 0 1) sc0C))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= sc0C 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (<= (str.len var1C) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= (str.++ preC (str.++ stem1 sufC)) (str.++ unch11C (str.++ ch1C unch21C))))
+(assert (= "at1lX" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "Ziz1lX" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= "u1lX" (str.++ unch11C (str.++ var1C unch21C))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (= (ite (= ch1C var1C) 0 1) sc1C))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= sc1C 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (<= (str.len var2C) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= (str.++ preC (str.++ stem2 sufC)) (str.++ unch12C (str.++ ch2C unch22C))))
+(assert (= "atkarOvX" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "ZizkarOvX" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= "ukarOvX" (str.++ unch12C (str.++ var2C unch22C))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (= (ite (= ch2C var2C) 0 1) sc2C))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= sc2C 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (<= (str.len var3C) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= (str.++ preC (str.++ stem3 sufC)) (str.++ unch13C (str.++ ch3C unch23C))))
+(assert (= "adbarad2" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "Zizbarad2" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= "ubarad2" (str.++ unch13C (str.++ var3C unch23C))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (= (ite (= ch3C var3C) 0 1) sc3C))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= sc3C 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (<= (str.len var4C) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= (str.++ preC (str.++ stem4 sufC)) (str.++ unch14C (str.++ ch4C unch24C))))
+(assert (= "at3istr2" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "Zis3istr2" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= "u3istr2" (str.++ unch14C (str.++ var4C unch24C))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (= (ite (= ch4C var4C) 0 1) sc4C))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= sc4C 1))
+(assert (= (+ 0
+      0
+      sc0A
+      sc0B
+      sc0C
+      0
+      sc1A
+      sc1B
+      sc1C
+      0
+      sc2A
+      sc2B
+      sc2C
+      0
+      sc3A
+      sc3B
+      sc3C
+      0
+      sc4A
+      sc4B
+      sc4C)
+   10))
+
+[('atrózɨ', 'atrózɨ'), ('bʲizrózɨ', 'bʲizrózɨ'), ('uró\\x00\\x00rózɨ', 'urózɨ'), ('atálɨ', 'atálɨ'), ('bʲizálɨ', 'bʲizálɨ'), ('uró\\x00\\x00álɨ', 'uálɨ'), ('atkaró\\x00\\x00\\x00\\x00\\x00aróvɨ', 'atkaróvɨ'), ('bʲizkaró\\x00\\x00\\x00\\x00\\x00aróvɨ', 'bʲizkaróvɨ'), ('uró\\x00\\x00karó\\x00\\x00\\x00\\x00\\x00aróvɨ', 'ukaróvɨ'), ('atbar\\x00\\x00adbaradɨ́', 'adbaradɨ́'), ('bʲizbar\\x00\\x00adbaradɨ́', 'bʲizbaradɨ́'), ('uró\\x00\\x00bar\\x00\\x00adbaradɨ́', 'ubaradɨ́'), ('atsʲistrɨ́', 'atsʲistrɨ́'), ('bʲizsʲistrɨ́', 'bʲissʲistrɨ́'), ('uró\\x00\\x00sʲistrɨ́', 'usʲistrɨ́')]
+WARNING: z3str returned invalid symbols
+None
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun var0C () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun unch20C () String)
+(declare-fun ch0C () String)
+(declare-fun unch10C () String)
+(declare-fun sufC () String)
+(declare-fun preC () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun sc0C () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun var1C () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun unch21C () String)
+(declare-fun ch1C () String)
+(declare-fun unch11C () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun sc1C () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun var2C () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun unch22C () String)
+(declare-fun ch2C () String)
+(declare-fun unch12C () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun sc2C () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun var3C () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun unch23C () String)
+(declare-fun ch3C () String)
+(declare-fun unch13C () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun sc3C () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun var4C () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun unch24C () String)
+(declare-fun ch4C () String)
+(declare-fun unch14C () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun sc4C () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (<= (str.len var0C) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= (str.++ preC (str.++ stem0 sufC)) (str.++ unch10C (str.++ ch0C unch20C))))
+(assert (= "atrOzX" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "ZizrOzX" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= "urOzX" (str.++ unch10C (str.++ var0C unch20C))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (= (ite (= ch0C var0C) 0 1) sc0C))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= sc0C 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (<= (str.len var1C) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= (str.++ preC (str.++ stem1 sufC)) (str.++ unch11C (str.++ ch1C unch21C))))
+(assert (= "at1lX" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "Ziz1lX" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= "u1lX" (str.++ unch11C (str.++ var1C unch21C))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (= (ite (= ch1C var1C) 0 1) sc1C))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= sc1C 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (<= (str.len var2C) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= (str.++ preC (str.++ stem2 sufC)) (str.++ unch12C (str.++ ch2C unch22C))))
+(assert (= "atkarOvX" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "ZizkarOvX" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= "ukarOvX" (str.++ unch12C (str.++ var2C unch22C))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (= (ite (= ch2C var2C) 0 1) sc2C))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= sc2C 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (<= (str.len var3C) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= (str.++ preC (str.++ stem3 sufC)) (str.++ unch13C (str.++ ch3C unch23C))))
+(assert (= "adbarad2" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "Zizbarad2" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= "ubarad2" (str.++ unch13C (str.++ var3C unch23C))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (= (ite (= ch3C var3C) 0 1) sc3C))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= sc3C 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (<= (str.len var4C) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= (str.++ preC (str.++ stem4 sufC)) (str.++ unch14C (str.++ ch4C unch24C))))
+(assert (= "at3istr2" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "Zis3istr2" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= "u3istr2" (str.++ unch14C (str.++ var4C unch24C))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (= (ite (= ch4C var4C) 0 1) sc4C))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= sc4C 1))
+(assert (= (+ 0
+      0
+      sc0A
+      sc0B
+      sc0C
+      0
+      sc1A
+      sc1B
+      sc1C
+      0
+      sc2A
+      sc2B
+      sc2C
+      0
+      sc3A
+      sc3B
+      sc3C
+      0
+      sc4A
+      sc4B
+      sc4C)
+   11))
+
+[('aurózɨ', 'atrózɨ'), ('bʲizurózɨ', 'bʲizrózɨ'), ('urózɨ', 'urózɨ'), ('atálɨ', 'atálɨ'), ('bʲiztálɨ', 'bʲizálɨ'), ('tálɨ', 'uálɨ'), ('aukaróvɨ', 'atkaróvɨ'), ('bʲizukaróvɨ', 'bʲizkaróvɨ'), ('ukaróvɨ', 'ukaróvɨ'), ('aubaradɨ́', 'adbaradɨ́'), ('bʲizubaradɨ́', 'bʲizbaradɨ́'), ('ubaradɨ́', 'ubaradɨ́'), ('ausʲi\\x00\\x00\\x00\\x00tsʲistrɨ́', 'atsʲistrɨ́'), ('bʲizusʲi\\x00\\x00\\x00\\x00tsʲistrɨ́', 'bʲissʲistrɨ́'), ('usʲi\\x00\\x00\\x00\\x00tsʲistrɨ́', 'usʲistrɨ́')]
+underlying: #
+underlying: bʲ
+underlying: i
+underlying: z
+underlying: u
+underlying: r
+underlying: ó
+underlying: z
+underlying: ɨ
+underlying: #
+surface: #
+surface: bʲ
+surface: i
+surface: z
+surface: r
+surface: ó
+surface: z
+surface: ɨ
+surface: #
+underlying: #
+underlying: bʲ
+underlying: i
+underlying: z
+underlying: t
+underlying: á
+underlying: l
+underlying: ɨ
+underlying: #
+surface: #
+surface: bʲ
+surface: i
+surface: z
+surface: á
+surface: l
+surface: ɨ
+surface: #
+underlying: #
+underlying: bʲ
+underlying: i
+underlying: z
+underlying: u
+underlying: k
+underlying: a
+underlying: r
+underlying: ó
+underlying: v
+underlying: ɨ
+underlying: #
+surface: #
+surface: bʲ
+surface: i
+surface: z
+surface: k
+surface: a
+surface: r
+surface: ó
+surface: v
+surface: ɨ
+surface: #
+underlying: #
+underlying: bʲ
+underlying: i
+underlying: z
+underlying: u
+underlying: b
+underlying: a
+underlying: r
+underlying: a
+underlying: d
+underlying: ɨ́
+underlying: #
+surface: #
+surface: bʲ
+surface: i
+surface: z
+surface: b
+surface: a
+surface: r
+surface: a
+surface: d
+surface: ɨ́
+surface: #
+WARNING: z3str returned invalid symbols
+None
+(declare-fun var0A () String)
+(declare-fun var0B () String)
+(declare-fun var0C () String)
+(declare-fun unch20A () String)
+(declare-fun ch0A () String)
+(declare-fun unch10A () String)
+(declare-fun sufA () String)
+(declare-fun stem0 () String)
+(declare-fun preA () String)
+(declare-fun unch20B () String)
+(declare-fun ch0B () String)
+(declare-fun unch10B () String)
+(declare-fun sufB () String)
+(declare-fun preB () String)
+(declare-fun unch20C () String)
+(declare-fun ch0C () String)
+(declare-fun unch10C () String)
+(declare-fun sufC () String)
+(declare-fun preC () String)
+(declare-fun l0 () Int)
+(declare-fun sc0A () Int)
+(declare-fun sc0B () Int)
+(declare-fun sc0C () Int)
+(declare-fun var1A () String)
+(declare-fun var1B () String)
+(declare-fun var1C () String)
+(declare-fun unch21A () String)
+(declare-fun ch1A () String)
+(declare-fun unch11A () String)
+(declare-fun stem1 () String)
+(declare-fun unch21B () String)
+(declare-fun ch1B () String)
+(declare-fun unch11B () String)
+(declare-fun unch21C () String)
+(declare-fun ch1C () String)
+(declare-fun unch11C () String)
+(declare-fun l1 () Int)
+(declare-fun sc1A () Int)
+(declare-fun sc1B () Int)
+(declare-fun sc1C () Int)
+(declare-fun var2A () String)
+(declare-fun var2B () String)
+(declare-fun var2C () String)
+(declare-fun unch22A () String)
+(declare-fun ch2A () String)
+(declare-fun unch12A () String)
+(declare-fun stem2 () String)
+(declare-fun unch22B () String)
+(declare-fun ch2B () String)
+(declare-fun unch12B () String)
+(declare-fun unch22C () String)
+(declare-fun ch2C () String)
+(declare-fun unch12C () String)
+(declare-fun l2 () Int)
+(declare-fun sc2A () Int)
+(declare-fun sc2B () Int)
+(declare-fun sc2C () Int)
+(declare-fun var3A () String)
+(declare-fun var3B () String)
+(declare-fun var3C () String)
+(declare-fun unch23A () String)
+(declare-fun ch3A () String)
+(declare-fun unch13A () String)
+(declare-fun stem3 () String)
+(declare-fun unch23B () String)
+(declare-fun ch3B () String)
+(declare-fun unch13B () String)
+(declare-fun unch23C () String)
+(declare-fun ch3C () String)
+(declare-fun unch13C () String)
+(declare-fun l3 () Int)
+(declare-fun sc3A () Int)
+(declare-fun sc3B () Int)
+(declare-fun sc3C () Int)
+(declare-fun var4A () String)
+(declare-fun var4B () String)
+(declare-fun var4C () String)
+(declare-fun unch24A () String)
+(declare-fun ch4A () String)
+(declare-fun unch14A () String)
+(declare-fun stem4 () String)
+(declare-fun unch24B () String)
+(declare-fun ch4B () String)
+(declare-fun unch14B () String)
+(declare-fun unch24C () String)
+(declare-fun ch4C () String)
+(declare-fun unch14C () String)
+(declare-fun l4 () Int)
+(declare-fun sc4A () Int)
+(declare-fun sc4B () Int)
+(declare-fun sc4C () Int)
+(assert (<= (str.len var0A) 1))
+(assert (<= (str.len var0B) 1))
+(assert (<= (str.len var0C) 1))
+(assert (= (str.++ preA (str.++ stem0 sufA)) (str.++ unch10A (str.++ ch0A unch20A))))
+(assert (= (str.++ preB (str.++ stem0 sufB)) (str.++ unch10B (str.++ ch0B unch20B))))
+(assert (= (str.++ preC (str.++ stem0 sufC)) (str.++ unch10C (str.++ ch0C unch20C))))
+(assert (= "atrOzX" (str.++ unch10A (str.++ var0A unch20A))))
+(assert (= "ZizrOzX" (str.++ unch10B (str.++ var0B unch20B))))
+(assert (= "urOzX" (str.++ unch10C (str.++ var0C unch20C))))
+(assert (= (str.len stem0) l0))
+(assert (= (ite (= ch0A var0A) 0 1) sc0A))
+(assert (= (ite (= ch0B var0B) 0 1) sc0B))
+(assert (= (ite (= ch0C var0C) 0 1) sc0C))
+(assert (<= sc0A 1))
+(assert (<= sc0B 1))
+(assert (<= sc0C 1))
+(assert (<= (str.len var1A) 1))
+(assert (<= (str.len var1B) 1))
+(assert (<= (str.len var1C) 1))
+(assert (= (str.++ preA (str.++ stem1 sufA)) (str.++ unch11A (str.++ ch1A unch21A))))
+(assert (= (str.++ preB (str.++ stem1 sufB)) (str.++ unch11B (str.++ ch1B unch21B))))
+(assert (= (str.++ preC (str.++ stem1 sufC)) (str.++ unch11C (str.++ ch1C unch21C))))
+(assert (= "at1lX" (str.++ unch11A (str.++ var1A unch21A))))
+(assert (= "Ziz1lX" (str.++ unch11B (str.++ var1B unch21B))))
+(assert (= "u1lX" (str.++ unch11C (str.++ var1C unch21C))))
+(assert (= (str.len stem1) l1))
+(assert (= (ite (= ch1A var1A) 0 1) sc1A))
+(assert (= (ite (= ch1B var1B) 0 1) sc1B))
+(assert (= (ite (= ch1C var1C) 0 1) sc1C))
+(assert (<= sc1A 1))
+(assert (<= sc1B 1))
+(assert (<= sc1C 1))
+(assert (<= (str.len var2A) 1))
+(assert (<= (str.len var2B) 1))
+(assert (<= (str.len var2C) 1))
+(assert (= (str.++ preA (str.++ stem2 sufA)) (str.++ unch12A (str.++ ch2A unch22A))))
+(assert (= (str.++ preB (str.++ stem2 sufB)) (str.++ unch12B (str.++ ch2B unch22B))))
+(assert (= (str.++ preC (str.++ stem2 sufC)) (str.++ unch12C (str.++ ch2C unch22C))))
+(assert (= "atkarOvX" (str.++ unch12A (str.++ var2A unch22A))))
+(assert (= "ZizkarOvX" (str.++ unch12B (str.++ var2B unch22B))))
+(assert (= "ukarOvX" (str.++ unch12C (str.++ var2C unch22C))))
+(assert (= (str.len stem2) l2))
+(assert (= (ite (= ch2A var2A) 0 1) sc2A))
+(assert (= (ite (= ch2B var2B) 0 1) sc2B))
+(assert (= (ite (= ch2C var2C) 0 1) sc2C))
+(assert (<= sc2A 1))
+(assert (<= sc2B 1))
+(assert (<= sc2C 1))
+(assert (<= (str.len var3A) 1))
+(assert (<= (str.len var3B) 1))
+(assert (<= (str.len var3C) 1))
+(assert (= (str.++ preA (str.++ stem3 sufA)) (str.++ unch13A (str.++ ch3A unch23A))))
+(assert (= (str.++ preB (str.++ stem3 sufB)) (str.++ unch13B (str.++ ch3B unch23B))))
+(assert (= (str.++ preC (str.++ stem3 sufC)) (str.++ unch13C (str.++ ch3C unch23C))))
+(assert (= "adbarad2" (str.++ unch13A (str.++ var3A unch23A))))
+(assert (= "Zizbarad2" (str.++ unch13B (str.++ var3B unch23B))))
+(assert (= "ubarad2" (str.++ unch13C (str.++ var3C unch23C))))
+(assert (= (str.len stem3) l3))
+(assert (= (ite (= ch3A var3A) 0 1) sc3A))
+(assert (= (ite (= ch3B var3B) 0 1) sc3B))
+(assert (= (ite (= ch3C var3C) 0 1) sc3C))
+(assert (<= sc3A 1))
+(assert (<= sc3B 1))
+(assert (<= sc3C 1))
+(assert (<= (str.len var4A) 1))
+(assert (<= (str.len var4B) 1))
+(assert (<= (str.len var4C) 1))
+(assert (= (str.++ preA (str.++ stem4 sufA)) (str.++ unch14A (str.++ ch4A unch24A))))
+(assert (= (str.++ preB (str.++ stem4 sufB)) (str.++ unch14B (str.++ ch4B unch24B))))
+(assert (= (str.++ preC (str.++ stem4 sufC)) (str.++ unch14C (str.++ ch4C unch24C))))
+(assert (= "at3istr2" (str.++ unch14A (str.++ var4A unch24A))))
+(assert (= "Zis3istr2" (str.++ unch14B (str.++ var4B unch24B))))
+(assert (= "u3istr2" (str.++ unch14C (str.++ var4C unch24C))))
+(assert (= (str.len stem4) l4))
+(assert (= (ite (= ch4A var4A) 0 1) sc4A))
+(assert (= (ite (= ch4B var4B) 0 1) sc4B))
+(assert (= (ite (= ch4C var4C) 0 1) sc4C))
+(assert (<= sc4A 1))
+(assert (<= sc4B 1))
+(assert (<= sc4C 1))
+(assert (= (+ 0
+      0
+      sc0A
+      sc0B
+      sc0C
+      0
+      sc1A
+      sc1B
+      sc1C
+      0
+      sc2A
+      sc2B
+      sc2C
+      0
+      sc3A
+      sc3B
+      sc3C
+      0
+      sc4A
+      sc4B
+      sc4C)
+   12))
+
+[('abʲi\\x00atrózɨ', 'atrózɨ'), ('bʲi\\x00atrózɨ', 'bʲizrózɨ'), ('uá\\x00\\x00\\x00\\x00\\x00\\x00\\x00bʲi\\x00atrózɨ', 'urózɨ'), ('abʲizálɨ', 'atálɨ'), ('bʲizálɨ', 'bʲizálɨ'), ('uá\\x00\\x00\\x00\\x00\\x00\\x00\\x00bʲizálɨ', 'uálɨ'), ('atkaizkaróvɨ', 'atkaróvɨ'), ('tkaizkaróvɨ', 'bʲizkaróvɨ'), ('uá\\x00\\x00\\x00\\x00\\x00\\x00\\x00tkaizkaróvɨ', 'ukaróvɨ'), ('abʲizbaradɨ́', 'adbaradɨ́'), ('bʲizbaradɨ́', 'bʲizbaradɨ́'), ('uá\\x00\\x00\\x00\\x00\\x00\\x00\\x00bʲizbaradɨ́', 'ubaradɨ́'), ('abʲissʲistrɨ́', 'atsʲistrɨ́'), ('bʲissʲistrɨ́', 'bʲissʲistrɨ́'), ('uá\\x00\\x00\\x00\\x00\\x00\\x00\\x00bʲissʲistrɨ́', 'usʲistrɨ́')]

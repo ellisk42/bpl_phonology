@@ -1,0 +1,28 @@
+[('taɡi', 'taɡi'), ('kitabu', 'kitabu'), ('paalika', 'paalika'), ('ni', 'ni'), ('ŋombe', 'ŋombe'), ('mataɡi', 'mataɡi'), ('dodoa', 'dodoa'), ('ɡoʃa', 'ɡoʃa'), ('babu', 'babu'), ('ndimi', 'ndimi'), ('ŋɡoto', 'ŋɡoto'), ('mbeu', 'mbeu'), ('ntʰumbii', 'n̥tʰumbii'), ('ŋokʰuŋɡuni', 'ŋokʰuŋɡuni'), ('mpʰeho', 'm̥pʰeho')]
+[('taɡi', 'taɡi'), ('kitabu', 'kitabu'), ('paalika', 'paalika'), ('n̥i', 'ni'), ('ŋom̥be', 'ŋombe'), ('m̥ataɡi', 'mataɡi'), ('dodoa', 'dodoa'), ('ɡoʃa', 'ɡoʃa'), ('babu', 'babu'), ('n̥dimi', 'ndimi'), ('ŋɡoto', 'ŋɡoto'), ('m̥beu', 'mbeu'), ('n̥tʰum̥bii', 'n̥tʰumbii'), ('ŋokʰuŋɡun̥i', 'ŋokʰuŋɡuni'), ('m̥pʰeho', 'm̥pʰeho')]
+Rule: ({}, {'dorsal': '-'}, {'spread glottis': '+'})
+N: 66
+N+: 2
+N-: 64
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 54090
+Simplicity score: 54090
+Simplicity: 54090
+Log # models: 143
+Likelihood: 8580
+Rule: ({}, {'sonorant': '+'}, {'spread glottis': '-'})
+N: 21
+N+: 7
+N-: 14
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 54090
+Simplicity score: 54090
+Simplicity: 54090
+Log # models: 243
+Likelihood: 51030
+Successfully discovered rule:
+ ({'voice': '+'}, ({}, {'sonorant': '+'}, {'spread glottis': '-'}))
+7.02user 0.06system 0:09.93elapsed 71%CPU (0avgtext+0avgdata 46296maxresident)k
+16760inputs+8outputs (76major+6690minor)pagefaults 0swaps

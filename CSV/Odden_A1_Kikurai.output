@@ -1,0 +1,51 @@
+[('aβaánto', 'aβaánto'), ('aβamúra', 'aβamúra'), ('amahíínri', 'amahííndi'), ('amakɛ́ɛ́nrɔ', 'amakɛ́ɛ́ndɔ'), ('eβǎ', 'eβǎ'), ('eeŋɣwé', 'eeŋɡwé'), ('eɣǎ', 'eɣǎ'), ('ekeβwɛ́', 'ekeβwɛ́'), ('hoorá', 'hoorá'), ('iβiɣúrúβe', 'iβiɣúrúβe'), ('iβirúúŋɣúuri', 'iβirúúŋɡúuri'), ('uɣusíri', 'uɣusíri'), ('βáinu', 'βáinu'), ('βorjó', 'βorjó'), ('iʧiiŋɣɛ́na', 'iʧiiŋɡɛ́na'), ('iʧiiŋɣúrúβe', 'iʧiiŋɡúrúβe'), ('ɣaβǎ', 'ɣaβǎ'), ('iʧiiŋɣúta', 'iʧiiŋɡúta'), ('βɛrɛká', 'βɛrɛká'), ('iɣitúúmβe', 'iɣitúúmbe'), ('ɣúúká', 'ɣúúká'), ('remǎ', 'remǎ'), ('rɛɛntá', 'rɛɛntá'), ('oβoɣááká', 'oβoɣááká'), ('oβotéénrééru', 'oβotééndééru'), ('okoɣéémβá', 'okoɣéémbá'), ('okoómβára', 'okoómbára'), ('okoβára', 'okoβára'), ('okoónrɔ́ɣa', 'okoóndɔ́ɣa'), ('okorɔ́ɣa', 'okorɔ́ɣa'), ('romǎ', 'romǎ'), ('teɣetá', 'teɣetá'), ('ukuúmβuurjá', 'ukuúmbuurjá'), ('uruɣúta', 'uruɣúta')]
+[('abaánto', 'aβaánto'), ('aβamúda', 'aβamúra'), ('amahííndi', 'amahííndi'), ('amakɛ́ɛ́ndɔ', 'amakɛ́ɛ́ndɔ'), ('ebǎ', 'eβǎ'), ('eeŋɡwé', 'eeŋɡwé'), ('eɡǎ', 'eɣǎ'), ('ekebwɛ́', 'ekeβwɛ́'), ('hoodá', 'hoorá'), ('iβiɡúrúβe', 'iβiɣúrúβe'), ('iβidúúŋɡúudi', 'iβirúúŋɡúuri'), ('uɡusíri', 'uɣusíri'), ('báinu', 'βáinu'), ('βodjó', 'βorjó'), ('iʧiiŋɡɛ́na', 'iʧiiŋɡɛ́na'), ('iʧiiŋɡúdúβe', 'iʧiiŋɡúrúβe'), ('ɡaβǎ', 'ɣaβǎ'), ('iʧiiŋɡúta', 'iʧiiŋɡúta'), ('βɛdɛká', 'βɛrɛká'), ('iɡitúúmbe', 'iɣitúúmbe'), ('ɡúúká', 'ɣúúká'), ('demǎ', 'remǎ'), ('dɛɛntá', 'rɛɛntá'), ('oβoɡááká', 'oβoɣááká'), ('oβotééndéédu', 'oβotééndééru'), ('okoɡéémbá', 'okoɣéémbá'), ('okoómbáda', 'okoómbára'), ('okoβáda', 'okoβára'), ('okoóndɔ́ɡa', 'okoóndɔ́ɣa'), ('okorɔ́ɡa', 'okorɔ́ɣa'), ('domǎ', 'romǎ'), ('teɡetá', 'teɣetá'), ('ukuúmbuudjá', 'ukuúmbuurjá'), ('uruɡúta', 'uruɣúta')]
+Rule: ({'coronal': '+'}, {'dorsal': '-'}, {})
+N: 237
+N+: 4
+N-: 233
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 54090
+Simplicity score: 54090
+Simplicity: 54090
+Log # models: 169
+Likelihood: 20280
+Rule: ({'syllabic': '-'}, {'delayed release': '+'}, {})
+N: 234
+N+: 9
+N-: 225
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 55565
+Simplicity score: 55565
+Simplicity: 55565
+Log # models: 189
+Likelihood: 51030
+[1;31mUnsatisfiable constraints:[0;31m
+/# . b . á/ changed
+/e . b . ǎ/ changed
+/a . b . a/ changed
+/m . b . e/ didn't change
+/e . b . w/ changed
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/# . d . e/ changed
+/i . d . ú/ changed
+/ú . d . a/ changed
+/o . d . j/ changed
+/o . d . á/ changed
+/ɛ . d . ɛ/ changed
+/n . d . i/ didn't change
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/e . ɡ . ǎ/ changed
+/u . ɡ . u/ changed
+/i . ɡ . ú/ changed
+/# . ɡ . a/ changed
+/ŋ . ɡ . ú/ didn't change
+[0;0m
+Successfully discovered rule:
+ [({'strident': '-', 'delayed release': '-'}, ({'coronal': '+'}, {'dorsal': '-'}, {})), ({'delayed release': '-'}, ({'syllabic': '-'}, {'delayed release': '+'}, {}))]
+28.73user 0.07system 0:32.33elapsed 89%CPU (0avgtext+0avgdata 49320maxresident)k
+0inputs+8outputs (0major+7509minor)pagefaults 0swaps

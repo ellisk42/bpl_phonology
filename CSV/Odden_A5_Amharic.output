@@ -1,0 +1,22 @@
+[('fərəs', 'fərəs'), ('tənəsa', 'tənəsa'), ('jəlɨʃlɨʃ', 'jɛlɨʃlɨʃ'), ('majət', 'majɛt'), ('ɡənzəb', 'ɡənzəb'), ('ʃəɡna', 'ʃɛɡna'), ('nəñ', 'nəñ'), ('məwdəd', 'məwdəd'), ('mənnəsat', 'mənnəsat'), ('məmkər', 'məmkər'), ('ʒəle', 'ʒɛle'), ('jəlləm', 'jɛlləm'), ('məʧ', 'məʧ'), ('məstət', 'məstət'), ('fəlləɡə', 'fəlləɡə'), ('aɡəññə', 'aɡəññɛ'), ('təməʧʧə', 'təməʧʧɛ'), ('mokkərə', 'mokkərə'), ('kaʒʒə', 'kaʒʒɛ'), ('ʒəmmərə', 'ʒɛmmərə'), ('laʧʧə', 'laʧʧɛ'), ('aʃʃə', 'aʃʃɛ'), ('bəkkələ', 'bəkkələ'), ('ʃəməɡɡələ', 'ʃɛməɡɡələ')]
+[('fɛrɛs', 'fərəs'), ('tɛnɛsa', 'tənəsa'), ('jɛlɨʃlɨʃ', 'jɛlɨʃlɨʃ'), ('majɛt', 'majɛt'), ('ɡɛnzɛb', 'ɡənzəb'), ('ʃɛɡna', 'ʃɛɡna'), ('nɛñ', 'nəñ'), ('mɛwdɛd', 'məwdəd'), ('mɛnnɛsat', 'mənnəsat'), ('mɛmkɛr', 'məmkər'), ('ʒɛle', 'ʒɛle'), ('jɛllɛm', 'jɛlləm'), ('mɛʧ', 'məʧ'), ('mɛstɛt', 'məstət'), ('fɛllɛɡɛ', 'fəlləɡə'), ('aɡɛññɛ', 'aɡəññɛ'), ('tɛmɛʧʧɛ', 'təməʧʧɛ'), ('mokkɛrɛ', 'mokkərə'), ('kaʒʒɛ', 'kaʒʒɛ'), ('ʒɛmmɛrɛ', 'ʒɛmmərə'), ('laʧʧɛ', 'laʧʧɛ'), ('aʃʃɛ', 'aʃʃɛ'), ('bɛkkɛlɛ', 'bəkkələ'), ('ʃɛmɛɡɡɛlɛ', 'ʃɛməɡɡələ')]
+[1;31mUnsatisfiable constraints:[0;31m
+/r . ə . s/ didn't change
+/j . ə . l/ changed
+/j . ə . t/ changed
+/ʃ . ə . ɡ/ changed
+/ñ . ə . #/ changed
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/t . ɛ . n/ changed
+/f . ɛ . r/ changed
+/r . ɛ . s/ changed
+/n . ɛ . s/ changed
+/ɡ . ɛ . n/ changed
+/z . ɛ . b/ changed
+/m . ɛ . w/ changed
+/ʃ . ɛ . ɡ/ didn't change
+[0;0m
+Could not discover rule.
+12.38user 0.06system 0:15.37elapsed 80%CPU (0avgtext+0avgdata 45624maxresident)k
+6672inputs+8outputs (27major+6669minor)pagefaults 0swaps

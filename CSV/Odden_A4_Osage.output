@@ -1,0 +1,28 @@
+[('dábrĩ', 'dábrĩ'), ('ádikʰãʒã', 'áðikʰãʒã'), ('daʧpé', 'daʧpé'), ('ʧʔéde', 'ʧʔéðe'), ('dakʔé', 'dakʔé'), ('déze', 'ðéze'), ('dálĩ', 'dálĩ'), ('díe', 'ðíe'), ('daʃtú', 'daʃtú'), ('díʃki', 'ðíʃki')]
+[('ðábrĩ', 'dábrĩ'), ('áðikʰãʒã', 'áðikʰãʒã'), ('ðaʧpé', 'daʧpé'), ('ʧʔéðe', 'ʧʔéðe'), ('ðakʔé', 'dakʔé'), ('ðéze', 'ðéze'), ('ðálĩ', 'dálĩ'), ('ðíe', 'ðíe'), ('ðaʃtú', 'daʃtú'), ('ðíʃki', 'ðíʃki')]
+Rule: ({}, {'voice': '+', 'delayed release': '-'}, {'low': '-'})
+N: 45
+N+: 5
+N-: 40
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 58475
+Simplicity score: 58475
+Simplicity: 58475
+Log # models: 146
+Likelihood: 21900
+Rule: ({}, {}, {'low': '+', 'nasal': '-'})
+N: 47
+N+: 5
+N-: 42
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 56455
+Simplicity score: 56455
+Simplicity: 56455
+Log # models: 201
+Likelihood: 30150
+Successfully discovered rule:
+ ({'delayed release': '-', 'distributed': '-'}, ({}, {}, {'low': '+', 'nasal': '-'}))
+7.50user 0.06system 0:10.74elapsed 70%CPU (0avgtext+0avgdata 47408maxresident)k
+224inputs+8outputs (2major+7018minor)pagefaults 0swaps

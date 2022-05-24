@@ -1,0 +1,16 @@
+Language,ground truth # processes,# correct predictions,# spurious predictions,ur accuracy
+Lumasaaba,3,3,0,1
+Somali,6,4,1,0.7333333333
+Kera,4,0,4,0.5384615385
+North Saami,3,3,0,1
+Axininca Campa,1,1,0,1
+Tunica,2,2,0,0.8571428571
+Farsi,1,1,0,1
+Kikuyu,1,1,1,1
+Icelandic,4,0,2,0.3125
+Polish,2,2,0,1
+Jita,2,2,0,1
+Russian,5,2,1,0
+Yawelmani,3,3,1,0.96
+Zoque,3,3,0,1
+Standard Ukrainian,5,3,3,0.6666666667

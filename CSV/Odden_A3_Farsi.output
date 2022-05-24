@@ -1,0 +1,23 @@
+[('ær̃teʃ', 'ær̃teʃ'), ('far̃si', 'far̃si'), ('qædr̃i', 'qædr̃i'), ('r̃ah', 'r̃ah'), ('r̃ast', 'r̃ast'), ('r̃iʃ', 'r̃iʃ'), ('ahar̥̃', 'ahar̥̃'), ('axær̥̃', 'axær̥̃'), ('hær̃towr̥̃', 'hær̃towr̥̃'), ('ʃir̥̃', 'ʃir̥̃'), ('ahar̃i', 'ahaɾi'), ('bær̃adær̥̃', 'bæɾadær̥̃'), ('ʧer̃a', 'ʧeɾa'), ('dar̃id', 'daɾid'), ('bir̃ænɡ', 'biɾænɡ'), ('ʃir̃ini', 'ʃiɾini')]
+[('æɾteʃ', 'ær̃teʃ'), ('faɾsi', 'far̃si'), ('qædɾi', 'qædr̃i'), ('ɾah', 'r̃ah'), ('ɾast', 'r̃ast'), ('ɾiʃ', 'r̃iʃ'), ('ahar̥̃', 'ahar̥̃'), ('axær̥̃', 'axær̥̃'), ('hæɾtowr̥̃', 'hær̃towr̥̃'), ('ʃir̥̃', 'ʃir̥̃'), ('ahaɾi', 'ahaɾi'), ('bæɾadær̥̃', 'bæɾadær̥̃'), ('ʧeɾa', 'ʧeɾa'), ('daɾid', 'daɾid'), ('biɾænɡ', 'biɾænɡ'), ('ʃiɾini', 'ʃiɾini')]
+Rule: ({'syllabic': 'α'}, {'continuant': '+', 'coronal': '+'}, {'syllabic': 'α'})
+N: 64
+N+: 6
+N-: 58
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 106180
+Simplicity score: 106180
+Simplicity: 106180
+Log # models: 201
+Likelihood: 36180
+[1;31mUnsatisfiable constraints:[0;31m
+/æ . ɾ . t/ changed
+/a . ɾ . s/ changed
+/a . ɾ . i/ didn't change
+/d . ɾ . i/ changed
+[0;0m
+Successfully discovered rule:
+ [({'nasal': '-', 'continuant': '-'}, ({'syllabic': 'α'}, {'continuant': '+', 'coronal': '+'}, {'syllabic': 'α'}))]
+8.70user 0.03system 0:11.15elapsed 78%CPU (0avgtext+0avgdata 48512maxresident)k
+456inputs+8outputs (0major+7285minor)pagefaults 0swaps

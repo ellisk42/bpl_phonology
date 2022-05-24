@@ -1,0 +1,5 @@
+[('kano', 'kano'), ('kori', 'kori'), ('xano', 'xano'), ('xori', 'xori'), ('xino', 'xʲino'), ('kino', 'kʲino'), ('krima', 'krima'), ('xrima', 'xrima'), ('xufta', 'xufta'), ('kufeta', 'kufeta'), ('kali', 'kali'), ('xali', 'xali'), ('xeli', 'xʲeli'), ('keri', 'kʲeri'), ('xeri', 'xʲeri'), ('oxi', 'oxʲi')]
+[('kʲano', 'kano'), ('kʲori', 'kori'), ('xʲano', 'xano'), ('xʲori', 'xori'), ('xʲino', 'xʲino'), ('kʲino', 'kʲino'), ('kʲrima', 'krima'), ('xʲrima', 'xrima'), ('xʲufta', 'xufta'), ('kʲufeta', 'kufeta'), ('kʲali', 'kali'), ('xʲali', 'xali'), ('xʲeli', 'xʲeli'), ('kʲeri', 'kʲeri'), ('xʲeri', 'xʲeri'), ('oxʲi', 'oxʲi')]
+Could not discover rule.
+3.03user 0.02system 0:03.72elapsed 82%CPU (0avgtext+0avgdata 32124maxresident)k
+7104inputs+8outputs (19major+5132minor)pagefaults 0swaps

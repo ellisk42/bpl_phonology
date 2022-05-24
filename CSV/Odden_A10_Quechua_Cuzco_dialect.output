@@ -1,0 +1,23 @@
+[('qori', 'qori'), ('ʧoχlu', 'ʧoχlu'), ('qomir', 'qomir'), ('niɴri', 'niŋri'), ('moqo', 'moqo'), ('hoqara', 'hoqara'), ('pʰulju', 'pʰulju'), ('jujaɴ', 'jujaŋ'), ('tulju', 'tulju'), ('api', 'api'), ('suti', 'suti'), ('oɴqoj', 'oɴqoj'), ('ʧilwi', 'ʧilwi'), ('ʧʰiʧiɴ', 'ʧʰiʧiŋ'), ('ʧʰaɴqaj', 'ʧʰaɴqaj'), ('aɴqosaj', 'aɴqosaj'), ('qeʧuɴ', 'qeʧuŋ'), ('pisqo', 'pisqo'), ('musoχ', 'musoχ'), ('ʧuɴka', 'ʧuŋka'), ('jaɴqaɴ', 'jaɴqaŋ'), ('ʧulju', 'ʧulju'), ('qhelja', 'qhelja'), ('qeɴqo', 'qeɴqo'), ('ʧeqaɴ', 'ʧeqaŋ'), ('qaɴ', 'qaŋ'), ('noqa', 'noqa'), ('ʧaxra', 'ʧaxra'), ('ʧeχniɴ', 'ʧeχniŋ'), ('soχta', 'soχta'), ('aχna', 'aχna'), ('ljixlja', 'ljixlja'), ('qosa', 'qosa'), ('qara', 'qara'), ('alqo', 'alqo'), ('seɴqa', 'seɴqa'), ('karu', 'karu'), ('atoχ', 'atoχ'), ('qaɴkuna', 'qaŋkuna'), ('pusaχ', 'pusaχ'), ('teχwaj', 'teχwaj'), ('ʧaki', 'ʧaki'), ('wateχ', 'wateχ'), ('aɴka', 'aŋka'), ('waχtaj', 'waχtaj'), ('haku', 'haku'), ('waqaj', 'waqaj'), ('kaɴka', 'kaŋka'), ('waxʧa', 'waxʧa'), ('waleχ', 'waleχ'), ('tʰakaj', 'tʰakaj'), ('reχsisqa', 'reχsisqa')]
+[('qori', 'qori'), ('ʧoχlu', 'ʧoχlu'), ('qomir', 'qomir'), ('niŋri', 'niŋri'), ('moqo', 'moqo'), ('hoqara', 'hoqara'), ('pʰulju', 'pʰulju'), ('jujaŋ', 'jujaŋ'), ('tulju', 'tulju'), ('api', 'api'), ('suti', 'suti'), ('oŋqoj', 'oɴqoj'), ('ʧilwi', 'ʧilwi'), ('ʧʰiʧiŋ', 'ʧʰiʧiŋ'), ('ʧʰaŋqaj', 'ʧʰaɴqaj'), ('aŋqosaj', 'aɴqosaj'), ('qeʧuŋ', 'qeʧuŋ'), ('pisqo', 'pisqo'), ('musoχ', 'musoχ'), ('ʧuŋka', 'ʧuŋka'), ('jaŋqaŋ', 'jaɴqaŋ'), ('ʧulju', 'ʧulju'), ('qhelja', 'qhelja'), ('qeŋqo', 'qeɴqo'), ('ʧeqaŋ', 'ʧeqaŋ'), ('qaŋ', 'qaŋ'), ('noqa', 'noqa'), ('ʧaxra', 'ʧaxra'), ('ʧeχniŋ', 'ʧeχniŋ'), ('soχta', 'soχta'), ('aχna', 'aχna'), ('ljixlja', 'ljixlja'), ('qosa', 'qosa'), ('qara', 'qara'), ('alqo', 'alqo'), ('seŋqa', 'seɴqa'), ('karu', 'karu'), ('atoχ', 'atoχ'), ('qaŋkuna', 'qaŋkuna'), ('pusaχ', 'pusaχ'), ('teχwaj', 'teχwaj'), ('ʧaki', 'ʧaki'), ('wateχ', 'wateχ'), ('aŋka', 'aŋka'), ('waχtaj', 'waχtaj'), ('haku', 'haku'), ('waqaj', 'waqaj'), ('kaŋka', 'kaŋka'), ('waxʧa', 'waxʧa'), ('waleχ', 'waleχ'), ('tʰakaj', 'tʰakaj'), ('reχsisqa', 'reχsisqa')]
+[1;31mUnsatisfiable constraints:[0;31m
+/i . ɴ . r/ changed
+/a . ɴ . #/ changed
+/o . ɴ . q/ didn't change
+/u . ɴ . #/ changed
+[0;0m
+Rule: ({}, {'dorsal': '+', 'nasal': '+'}, {'high': '-'})
+N: 148
+N+: 6
+N-: 142
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 56990
+Simplicity score: 56990
+Simplicity: 56990
+Log # models: 127
+Likelihood: 22860
+Successfully discovered rule:
+ [({'high': '-'}, ({}, {'dorsal': '+', 'nasal': '+'}, {'high': '-'}))]
+13.42user 0.03system 0:14.86elapsed 90%CPU (0avgtext+0avgdata 49724maxresident)k
+0inputs+8outputs (0major+7657minor)pagefaults 0swaps

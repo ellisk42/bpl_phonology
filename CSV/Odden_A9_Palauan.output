@@ -1,0 +1,28 @@
+[('kəðə', 'kəðə'), ('bəðuk', 'bəðuk'), ('ðiak', 'ðiak'), ('diak', 'diak'), ('madtŋod', 'maθtŋoθ'), ('ðeːl', 'ðeːl'), ('deːl', 'deːl'), ('ðiosəʔ', 'ðiosəʔ'), ('diosəʔ', 'diosəʔ'), ('ðik', 'ðik'), ('dik', 'dik'), ('kud', 'kuθ'), ('ʔoðiŋəl', 'ʔoðiŋəl'), ('koad', 'koaθ'), ('eaŋəd', 'eaŋəθ'), ('ŋərarəðə', 'ŋərarəðə'), ('bad', 'baθ'), ('ieðlʔəðip', 'ieðlʔəðip'), ('kəðeb', 'kəðeb'), ('məðəŋei', 'məðəŋei'), ('uðoud', 'uðouθ'), ('olðak', 'olðak')]
+[('kəðə', 'kəðə'), ('bəðuk', 'bəðuk'), ('ðiak', 'ðiak'), ('θiak', 'diak'), ('maθtŋoθ', 'maθtŋoθ'), ('ðeːl', 'ðeːl'), ('θeːl', 'deːl'), ('ðiosəʔ', 'ðiosəʔ'), ('θiosəʔ', 'diosəʔ'), ('ðik', 'ðik'), ('θik', 'dik'), ('kuθ', 'kuθ'), ('ʔoðiŋəl', 'ʔoðiŋəl'), ('koaθ', 'koaθ'), ('eaŋəθ', 'eaŋəθ'), ('ŋərarəðə', 'ŋərarəðə'), ('baθ', 'baθ'), ('ieðlʔəðip', 'ieðlʔəðip'), ('kəðeb', 'kəðeb'), ('məðəŋei', 'məðəŋei'), ('uðouθ', 'uðouθ'), ('olðak', 'olðak')]
+Rule: ({'coronal': '-'}, {'delayed release': '-', 'coronal': '+'}, {})
+N: 109
+N+: 7
+N-: 102
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 57110
+Simplicity score: 57110
+Simplicity: 57110
+Log # models: 167
+Likelihood: 35070
+Rule: ({}, {'voice': '-'}, {'front': '+'})
+N: 109
+N+: 4
+N-: 105
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 55455
+Simplicity score: 55455
+Simplicity: 55455
+Log # models: 136
+Likelihood: 16320
+Successfully discovered rule:
+ ({'delayed release': '-', 'voice': '+', 'distributed': '-'}, ({}, {'voice': '-'}, {'front': '+'}))
+11.14user 0.09system 0:14.58elapsed 77%CPU (0avgtext+0avgdata 47168maxresident)k
+576inputs+8outputs (2major+16858minor)pagefaults 0swaps

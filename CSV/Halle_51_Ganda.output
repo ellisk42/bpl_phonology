@@ -1,0 +1,20 @@
+[('kora', 'kola'), ('rwana', 'lwana'), ('buurira', 'buulira'), ('rja', 'lja'), ('ruura', 'luula'), ('omuɡore', 'omuɡole'), ('rumonde', 'lumonde'), ('eddwariro', 'eddwaliro'), ('oruɡanda', 'oluɡanda'), ('orurimi', 'olulimi'), ('wurira', 'wulira'), ('beera', 'beera'), ('jjukira', 'jjukira'), ('erjato', 'erjato'), ('omuriro', 'omuliro'), ('effirimbi', 'effirimbi'), ('emmeeri', 'emmeeri'), ('eraddu', 'eraddu'), ('wawaabira', 'wawaabira'), ('raɡira', 'laɡira'), ('ebendera', 'ebendera'), ('reerwe', 'leerwe'), ('ruura', 'luula'), ('ssaffaari', 'ssaffaali')]
+[('kola', 'kola'), ('lwana', 'lwana'), ('buulila', 'buulira'), ('lja', 'lja'), ('luula', 'luula'), ('omuɡole', 'omuɡole'), ('lumonde', 'lumonde'), ('eddwalilo', 'eddwaliro'), ('oluɡanda', 'oluɡanda'), ('olulimi', 'olulimi'), ('wulila', 'wulira'), ('beela', 'beera'), ('jjukila', 'jjukira'), ('eljato', 'erjato'), ('omulilo', 'omuliro'), ('effilimbi', 'effirimbi'), ('emmeeli', 'emmeeri'), ('eladdu', 'eraddu'), ('wawaabila', 'wawaabira'), ('laɡila', 'laɡira'), ('ebendela', 'ebendera'), ('leelwe', 'leerwe'), ('luula', 'luula'), ('ssaffaali', 'ssaffaali')]
+[1;31mUnsatisfiable constraints:[0;31m
+/o . r . a/ changed
+/# . r . w/ changed
+/i . r . a/ didn't change
+[0;0m
+Rule: ({'low': '-', 'labial': '-'}, {'approximant': '+'}, {})
+N: 62
+N+: 14
+N-: 48
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 58000
+Simplicity score: 58000
+Simplicity: 58000
+Log # models: 174
+Likelihood: 73080
+Successfully discovered rule:
+ [({'continuant': '+'}, ({'low': '-', 'labial': '-'}, {'approximant': '+'}, {}))]

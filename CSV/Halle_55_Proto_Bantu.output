@@ -1,0 +1,44 @@
+[('βale', 'βale'), ('leme', 'leme'), ('taβe', 'taβe'), ('pala', 'pala'), ('konlɛ', 'kondɛ'), ('zɔŋɣɔ', 'zɔŋɡɔ'), ('βɛɣa', 'βɛɣa'), ('βɛmβe', 'βɛmbe'), ('limo', 'limo'), ('kaŋɣa', 'kaŋɡa'), ('ɣɔmβɛ', 'ɣɔmbɛ'), ('lelɔ', 'lelɔ'), ('kiɣa', 'kiɣa'), ('ɣiɣɛ', 'ɣiɣɛ'), ('kulu', 'kulu'), ('oŋɣo', 'oŋɡo'), ('tɛnlɛ', 'tɛndɛ'), ('zala', 'zala'), ('zɔɣu', 'zɔɣu'), ('βele', 'βele'), ('lɛlu', 'lɛlu'), ('eɣi', 'eɣi'), ('kiŋɣɔ', 'kiŋɡɔ'), ('nto', 'nto')]
+[('βade', 'βale'), ('deme', 'leme'), ('tabe', 'taβe'), ('pada', 'pala'), ('kondɛ', 'kondɛ'), ('zɔŋɡɔ', 'zɔŋɡɔ'), ('βɛɡa', 'βɛɣa'), ('bɛmbe', 'βɛmbe'), ('dimo', 'limo'), ('kaŋɡa', 'kaŋɡa'), ('ɡɔmbɛ', 'ɣɔmbɛ'), ('dedɔ', 'lelɔ'), ('kiɡa', 'kiɣa'), ('ɡiɡɛ', 'ɣiɣɛ'), ('kudu', 'kulu'), ('oŋɡo', 'oŋɡo'), ('tɛndɛ', 'tɛndɛ'), ('zada', 'zala'), ('zɔɡu', 'zɔɣu'), ('βede', 'βele'), ('dɛdu', 'lɛlu'), ('eɡi', 'eɣi'), ('kiŋɡɔ', 'kiŋɡɔ'), ('nto', 'nto')]
+Rule: ({'syllabic': '-'}, {'continuant': '-'}, {})
+N: 98
+N+: 2
+N-: 96
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 54090
+Simplicity score: 54090
+Simplicity: 54090
+Log # models: 197
+Likelihood: 11820
+Rule: ({'syllabic': '-'}, {'delayed release': '+'}, {})
+N: 95
+N+: 6
+N-: 89
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 55565
+Simplicity score: 55565
+Simplicity: 55565
+Log # models: 189
+Likelihood: 34020
+[1;31mUnsatisfiable constraints:[0;31m
+/a . d . a/ changed
+/a . d . e/ changed
+/# . d . e/ changed
+/n . d . ɛ/ didn't change
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/a . b . e/ changed
+/m . b . e/ didn't change
+/# . b . ɛ/ changed
+[0;0m
+[1;31mUnsatisfiable constraints:[0;31m
+/# . ɡ . ɔ/ changed
+/ɛ . ɡ . a/ changed
+/ŋ . ɡ . a/ didn't change
+[0;0m
+Successfully discovered rule:
+ [({'delayed release': '-', 'strident': '-'}, ({'syllabic': '-'}, {'continuant': '-'}, {})), ({'delayed release': '-'}, ({'syllabic': '-'}, {'delayed release': '+'}, {}))]
+15.03user 0.05system 0:16.04elapsed 94%CPU (0avgtext+0avgdata 49668maxresident)k
+0inputs+8outputs (0major+7610minor)pagefaults 0swaps

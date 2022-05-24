@@ -1,0 +1,28 @@
+[('bil', 'bil'), ('myy', 'myy'), ('rak', 'rak̚'), ('baa', 'baa'), ('loŋ', 'loŋ'), ('bryy', 'bryy'), ('haa', 'haa'), ('plaa', 'plaa'), ('dii', 'dii'), ('ʧaan', 'ʧaan'), ('tʰee', 'tʰee'), ('tʰruumɛɛn', 'tʰruumɛɛn'), ('kʰɛŋ', 'kʰɛŋ'), ('panjaa', 'panjaa'), ('ləəj', 'ləəj'), ('pʰjaa', 'pʰjaa'), ('lyak', 'lyak̚'), ('klaaŋ', 'klaaŋ'), ('ʧʰat', 'ʧʰat̚'), ('traa', 'traa'), ('riip', 'riip̚'), ('ɔɔk', 'ɔɔk̚'), ('pʰrɛɛ', 'pʰrɛɛ'), ('kiə', 'kiə'), ('kʰwaa', 'kʰwaa'), ('kɛɛ', 'kɛɛ'), ('draj', 'draj'), ('dyŋ', 'dyŋ'), ('kan', 'kan'), ('ʧuək', 'ʧuək̚'), ('pʰleeŋ', 'pʰleeŋ'), ('ʧʰan', 'ʧʰan'), ('staaŋ', 'staaŋ'), ('rap', 'rap̚'), ('jiisip', 'jiisip̚'), ('pʰaa', 'pʰaa'), ('kʰaa', 'kʰaa'), ('dam', 'dam'), ('raaj', 'raaj'), ('tit', 'tit̚'), ('sip', 'sip̚'), ('pen', 'pen')]
+[('bil', 'bil'), ('myy', 'myy'), ('rak̚', 'rak̚'), ('baa', 'baa'), ('loŋ', 'loŋ'), ('bryy', 'bryy'), ('haa', 'haa'), ('p̚laa', 'plaa'), ('dii', 'dii'), ('ʧaan', 'ʧaan'), ('tʰee', 'tʰee'), ('tʰruumɛɛn', 'tʰruumɛɛn'), ('kʰɛŋ', 'kʰɛŋ'), ('p̚anjaa', 'panjaa'), ('ləəj', 'ləəj'), ('pʰjaa', 'pʰjaa'), ('lyak̚', 'lyak̚'), ('k̚laaŋ', 'klaaŋ'), ('ʧʰat̚', 'ʧʰat̚'), ('t̚raa', 'traa'), ('riip̚', 'riip̚'), ('ɔɔk̚', 'ɔɔk̚'), ('pʰrɛɛ', 'pʰrɛɛ'), ('k̚iə', 'kiə'), ('kʰwaa', 'kʰwaa'), ('k̚ɛɛ', 'kɛɛ'), ('draj', 'draj'), ('dyŋ', 'dyŋ'), ('k̚an', 'kan'), ('ʧuək̚', 'ʧuək̚'), ('pʰleeŋ', 'pʰleeŋ'), ('ʧʰan', 'ʧʰan'), ('st̚aaŋ', 'staaŋ'), ('rap̚', 'rap̚'), ('jiisip̚', 'jiisip̚'), ('pʰaa', 'pʰaa'), ('kʰaa', 'kʰaa'), ('dam', 'dam'), ('raaj', 'raaj'), ('t̚it̚', 'tit̚'), ('sip̚', 'sip̚'), ('p̚en', 'pen')]
+Rule: ({'coronal': '-'}, {'delayed release': '-'}, {})
+N: 156
+N+: 10
+N-: 146
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 55565
+Simplicity score: 55565
+Simplicity: 55565
+Log # models: 176
+Likelihood: 52800
+Rule: ({}, {}, {'secondary stress': '-'})
+N: 20
+N+: 10
+N-: 10
+Simplicity weight: 1
+Likelihood weight: 30
+Objective: 52545
+Simplicity score: 52545
+Simplicity: 52545
+Log # models: 286
+Likelihood: 85800
+Successfully discovered rule:
+ ({'unreleased': '-'}, ({}, {}, {'secondary stress': '-'}))
+10.07user 0.05system 0:14.12elapsed 71%CPU (0avgtext+0avgdata 46956maxresident)k
+56inputs+8outputs (0major+6930minor)pagefaults 0swaps
